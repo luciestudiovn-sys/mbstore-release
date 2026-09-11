@@ -1,0 +1,89 @@
+[
+  {
+    "id": "mb2auto-v1",
+    "name": "MB2AUTO (V1)",
+    "packageName": "com.monbon4car.mobile",
+    "tagline": "Xem YouTube Full HD, Web, IPTV & HUD Waze Mod nổi không quảng cáo",
+    "category": "Giải trí ô tô",
+    "currentVersion": "v2.6.1-v1",
+    "updatedAt": "11/09/2026",
+    "size": "2.6 MB",
+    "downloads": "185K+",
+    "rating": 5.0,
+    "icon": "youtube",
+    "accentColor": "#EF4444",
+    "featured": true,
+    "requiresRoot": false,
+    "targetAndroid": "Android 8.0 - 15+",
+    "isBundled": false,
+    "summary": "Phiên bản chuẩn ổn định cho Android Auto tích hợp Chữ ký số RSA bảo mật, YouTube không quảng cáo, chạy nền khi tắt màn hình, HUD Waze Mod nổi.",
+    "description": "MB2AUTO là giải pháp hàng đầu đưa YouTube lên màn hình Android Auto nguyên bản (OEM) của tất cả các dòng xe: VinFast, Mazda, Hyundai, Kia, Ford, Honda, Toyota... Không cần tháo lắp màn hình, không can thiệp phần cứng. Tinh chỉnh 60fps mượt mà, tắt quảng cáo hoàn toàn, hỗ trợ hiển thị nổi HUD Waze Mod.",
+    "mainFeatures": [
+      "Xem YouTube Full HD không quảng cáo, chạy nền mượt mà khi tắt màn hình",
+      "Tích hợp HUD Waze Mod: Cảnh báo tốc độ và camera phạt nguội nổi trên video",
+      "Đọc danh sách kênh IPTV truyền hình trực tuyến VTV, thể thao",
+      "Bảo mật cao cấp: Chữ ký số RSA Offline kích hoạt tức thì",
+      "Hỗ trợ phím Next/Prev bài hát và Volume trên vô lăng (Steering Wheel Controls)"
+    ],
+    "carCompatibility": "Tương thích tất cả các xe hỗ trợ Android Auto (Zin hoặc Màn lắp thêm)",
+    "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
+    "versions": [
+      {
+        "version": "v2.6.1-v1",
+        "releaseDate": "11/09/2026",
+        "fileSize": "2.6 MB",
+        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "isLatest": true,
+        "changelog": [
+          "Bản phát hành chính thức V1 tích hợp Chữ ký số RSA 2048-bit bảo mật",
+          "Tối ưu R8/ProGuard siêu nhẹ, mượt mà và an toàn",
+          "Tối ưu tốc độ khởi động cùng xe khi cắm cáp USB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "waze-mod-vn",
+    "name": "Waze Mod Speed & Cam VN",
+    "packageName": "com.waze",
+    "tagline": "Cảnh báo camera phạt nguội & giới hạn tốc độ tiếng Việt chuẩn cho xe",
+    "category": "Bản đồ & Cảnh báo",
+    "currentVersion": "v12.0-VN",
+    "updatedAt": "04/09/2026",
+    "size": "85.8 MB",
+    "downloads": "210K+",
+    "rating": 4.9,
+    "icon": "navigation",
+    "accentColor": "#00D2FF",
+    "featured": true,
+    "requiresRoot": false,
+    "targetAndroid": "Android 8.0 - 15+",
+    "isBundled": false,
+    "summary": "Bản mod Waze độc quyền bởi cộng đồng tài xế Việt. Phát cảnh báo tốc độ, camera phạt nguội và truyền dữ liệu thời gian thực sang HUD MB2AUTO.",
+    "description": "Waze Mod Việt Nam là công cụ dẫn đường được hàng vạn bác tài tin cậy. Dữ liệu camera giao thông được cập nhật liên tục hàng tuần bởi cộng đồng. Khi kết hợp cùng MB2AUTO, thông tin giới hạn tốc độ và camera sẽ được hiển thị dạng bong bóng nổi trực tiếp trên video YouTube hoặc bản đồ xe.",
+    "mainFeatures": [
+      "Dữ liệu camera phạt nguội toàn quốc cập nhật 2026",
+      "Cảnh báo bằng giọng nói tiếng Việt tự nhiên, chính xác",
+      "Truyền dữ liệu tốc độ thời gian thực sang HUD nổi của MB2AUTO",
+      "Hoạt động song song cùng Google Maps hoặc nghe nhạc/YouTube"
+    ],
+    "carCompatibility": "Cài đặt trực tiếp trên điện thoại Android, kết nối tự động với Android Auto",
+    "githubRepo": "https://media.chisadin.id.vn",
+    "versions": [
+      {
+        "version": "v12.0-VN",
+        "releaseDate": "04/09/2026",
+        "fileSize": "85.8 MB",
+        "downloadUrl": "https://media.chisadin.id.vn/Waze/V12/release/Waze_Mod_6.0_release_20260904_210602.apk",
+        "githubReleaseUrl": "https://media.chisadin.id.vn",
+        "isLatest": true,
+        "changelog": [
+          "Cập nhật dữ liệu camera phạt nguội tháng 09/2026",
+          "Tối ưu độ nhạy GPS khi xe di chuyển tốc độ cao",
+          "Sửa lỗi kết nối broadcast với MB2AUTO HUD"
+        ]
+      }
+    ]
+  }
+]
