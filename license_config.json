@@ -1,6 +1,6 @@
 {
-  "trial_enabled": false,
-  "trial_days": 0,
+  "trial_enabled": true,
+  "trial_days": 30,
   "global_kill_switch": false,
   "notice_title": "THÔNG BÁO",
   "lock_message": "Vui lòng liên hệ admin để kích hoạt.",
