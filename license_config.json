@@ -1,0 +1,11 @@
+{
+  "trial_enabled": false,
+  "trial_days": 0,
+  "global_kill_switch": false,
+  "notice_title": "THÔNG BÁO",
+  "lock_message": "Vui lòng liên hệ admin để kích hoạt.",
+  "contact_info": "Vui lòng liên hệ ADMIN, copy mã thiết bị gửi admin kích hoạt. (Hotline: 03423456789 - Nguyen huu hung)",
+  "payment_qr_url": "",
+  "banned_devices": [],
+  "licenses": {}
+}
