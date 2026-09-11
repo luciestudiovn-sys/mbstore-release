@@ -15,8 +15,10 @@ fi
 
 git add .
 git commit -m "Release MB2AUTO v2.6.1-v1 and MB Store v1.0.1"
-git remote remove origin 2>/dev/null || true
-git remote add origin https://github.com/luciestudiovn-sys/mb-releases.git
+# Check remote
+if ! git remote | grep -q 'origin'; then
+    git remote add origin https://github.com/luciestudiovn-sys/mbstore-release.git
+fi
 
 echo " Đang đẩy file APK và apps.json lên GitHub..."
 git push -u origin main --force
