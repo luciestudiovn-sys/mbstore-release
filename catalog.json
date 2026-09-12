@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "catalog_version": 2,
+  "catalog_version": 3,
   "store_name": "M&B Store",
   "apps": [
     {
@@ -12,13 +12,30 @@
       "size": 2736097,
       "icon_letter": "M",
       "icon_color": "#2563EB",
-      "sub": "Bản chuẩn ổn định cho Android Auto: YouTube, Web, IPTV, Lịch âm & HUD Waze",
+      "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, HUD Waze",
       "url": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
       "icon_url": "",
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB2AUTO",
-      "whats_new": "• Bản chuẩn nguyên bản ổn định cho Android Auto\n• Giữ lại 4 giao diện HUD chuẩn ổn định, loại bỏ lỗi hiển thị\n• Kích thước siêu nhẹ (~2.4 MB)\n• Tích hợp hệ thống khóa bản quyền & dùng thử\n• Hỗ trợ YouTube, trình duyệt, IPTV và HUD Waze"
+      "whats_new": "• Bản chuẩn nguyên bản ổn định cho Android Auto\n• Giữ lại 4 giao diện HUD chuẩn ổn định\n• Kích thước siêu nhẹ (~2.7 MB)\n• Tích hợp hệ thống khóa bản quyền & dùng thử\n• Hỗ trợ YouTube, trình duyệt, IPTV và HUD Waze"
+    },
+    {
+      "pkg": "com.monbon4car.v2",
+      "name": "MB2AUTO (V2)",
+      "cat": "Giao diện xe",
+      "ver": "2.0.0",
+      "version_code": 20,
+      "size": 2672235,
+      "icon_letter": "V2",
+      "icon_color": "#8B5CF6",
+      "sub": "Bản giao diện hiện đại Web Shell UI, hỗ trợ CarAppService & cài song song V1",
+      "url": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V2.apk",
+      "icon_url": "",
+      "shots": [],
+      "min_android": "Android 8.0+",
+      "signer": "MB2AUTO",
+      "whats_new": "• Kiến trúc hiện đại WebView Shell + Native Bridge\n• Hỗ trợ CarAppService chuẩn Google Car App Library\n• Tên gói riêng biệt com.monbon4car.v2, cài đặt song song không đè V1"
     }
   ],
   "cats": [
