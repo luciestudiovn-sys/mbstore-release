@@ -1,24 +1,24 @@
 {
   "ok": true,
-  "catalog_version": 3,
+  "catalog_version": 4,
   "store_name": "M&B Store",
   "apps": [
     {
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO (V1)",
       "cat": "Giao diện xe",
-      "ver": "2.6.1",
-      "version_code": 18,
-      "size": 2736097,
+      "ver": "2.6.2",
+      "version_code": 19,
+      "size": 2736749,
       "icon_letter": "M",
       "icon_color": "#2563EB",
-      "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, HUD Waze",
+      "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
       "url": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
       "icon_url": "",
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB2AUTO",
-      "whats_new": "• Bản chuẩn nguyên bản ổn định cho Android Auto\n• Giữ lại 4 giao diện HUD chuẩn ổn định\n• Kích thước siêu nhẹ (~2.7 MB)\n• Tích hợp hệ thống khóa bản quyền & dùng thử\n• Hỗ trợ YouTube, trình duyệt, IPTV và HUD Waze"
+      "whats_new": "• Tự động kết nối tức thì (Auto-Pair) với Waze Mod qua Socket cổng 8765\n• Hiển thị biển báo tốc độ và camera phạt nguội trên Android Auto Media Card\n• Tối ưu mượt mà YouTube không quảng cáo, IPTV tự dừng khi thoát"
     },
     {
       "pkg": "com.monbon4car.v2",
@@ -36,10 +36,28 @@
       "min_android": "Android 8.0+",
       "signer": "MB2AUTO",
       "whats_new": "• Kiến trúc hiện đại WebView Shell + Native Bridge\n• Hỗ trợ CarAppService chuẩn Google Car App Library\n• Tên gói riêng biệt com.monbon4car.v2, cài đặt song song không đè V1"
+    },
+    {
+      "pkg": "com.waze",
+      "name": "Waze Mod Auto-Pair",
+      "cat": "Bản đồ & Xe cộ",
+      "ver": "10.0-AutoPair",
+      "version_code": 1021703,
+      "size": 164056371,
+      "icon_letter": "W",
+      "icon_color": "#0284c7",
+      "sub": "Bản đồ dẫn đường, cảnh báo camera phạt nguội & tự động kết nối Socket MB2AUTO",
+      "url": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
+      "icon_url": "",
+      "shots": [],
+      "min_android": "Android 8.0+",
+      "signer": "WazeMod",
+      "whats_new": "• Cài đặt sẵn chế độ HUD Link WebSocket 127.0.0.1:8765\n• Tự động pair và gửi tín hiệu telemetry cho MB2AUTO ngay khi mở app\n• Cảnh báo camera phạt nguội, tốc độ giới hạn chính xác"
     }
   ],
   "cats": [
     "Tất cả",
-    "Giao diện xe"
+    "Giao diện xe",
+    "Bản đồ & Xe cộ"
   ]
 }

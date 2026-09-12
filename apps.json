@@ -7,8 +7,8 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.6.1-v1",
-    "updatedAt": "11/09/2026",
+    "currentVersion": "v2.6.2-v1",
+    "updatedAt": "12/09/2026",
     "size": "2.7 MB",
     "downloads": "185K+",
     "rating": 5.0,
@@ -18,7 +18,7 @@
     "requiresRoot": false,
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": true,
-    "summary": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, HUD Waze.",
+    "summary": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
     "description": "MB2AUTO V1 hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần cứng. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
     "mainFeatures": [
       "Xem YouTube không quảng cáo, chạy nền mượt mà khi tắt màn hình",
@@ -29,15 +29,16 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.6.1-v1",
-        "releaseDate": "11/09/2026",
+        "version": "v2.6.2-v1",
+        "releaseDate": "12/09/2026",
         "fileSize": "2.7 MB",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Bản chuẩn V1 ổn định cho Android Auto",
-          "Tối ưu siêu nhẹ, khởi động nhanh cùng xe"
+          "Tự động kết nối tức thì (Auto-Pair) với Waze Mod qua Socket 8765",
+          "Hiển thị biển báo tốc độ và camera phạt nguội trên Android Auto Media Card",
+          "Tối ưu mượt mà YouTube không quảng cáo, IPTV tự dừng khi thoát"
         ]
       }
     ]
@@ -93,9 +94,9 @@
     "developer": "Waze (Google LLC)",
     "tagline": "Bản đồ GPS, giao thông trực tiếp & cảnh báo camera",
     "category": "Bản đồ & Xe cộ",
-    "currentVersion": "v12.0-VN",
-    "updatedAt": "04/09/2026",
-    "size": "85.8 MB",
+    "currentVersion": "v10.0-AutoPair",
+    "updatedAt": "12/09/2026",
+    "size": "156 MB",
     "downloads": "210K+",
     "rating": 4.9,
     "icon": "navigation",
@@ -104,7 +105,7 @@
     "requiresRoot": false,
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": false,
-    "summary": "Bản đồ dẫn đường GPS, thông tin giao thông thời gian thực và cảnh báo từ cộng đồng tài xế.",
+    "summary": "Bản đồ dẫn đường GPS, cảnh báo camera phạt nguội và tự động kết nối Socket MB2AUTO.",
     "description": "Luôn biết trước tình hình đường sá với Waze. Ngay cả khi bạn đã biết đường, Waze vẫn báo trước về tình trạng giao thông, công trình, cảnh sát, tai nạn theo thời gian thực và tự động đổi lộ trình nhanh nhất.",
     "mainFeatures": [
       "Lộ trình thông minh theo giao thông thời gian thực",
@@ -116,15 +117,16 @@
     "githubRepo": "https://media.chisadin.id.vn",
     "versions": [
       {
-        "version": "v12.0-VN",
-        "releaseDate": "04/09/2026",
-        "fileSize": "85.8 MB",
-        "downloadUrl": "https://media.chisadin.id.vn/Waze/V12/release/Waze_Mod_6.0_release_20260904_210602.apk",
+        "version": "v10.0-AutoPair",
+        "releaseDate": "12/09/2026",
+        "fileSize": "156 MB",
+        "downloadUrl": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
         "githubReleaseUrl": "https://media.chisadin.id.vn",
         "isLatest": true,
         "changelog": [
-          "Dữ liệu camera phạt nguội cập nhật mới",
-          "Tối ưu cảnh báo giao thông trên Android Auto"
+          "Cấu hình sẵn HUD Link WebSocket 127.0.0.1:8765 tự động",
+          "Pair tức thì với MB2AUTO không cần cài đặt gì thêm",
+          "Cảnh báo tốc độ và camera phạt nguội thời gian thực"
         ]
       }
     ]
