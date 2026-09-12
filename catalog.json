@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "2.6.1",
       "version_code": 18,
-      "size": 2454273,
+      "size": 2672235,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản chuẩn ổn định cho Android Auto: YouTube, Web, IPTV, Lịch âm & HUD Waze",
@@ -19,28 +19,10 @@
       "min_android": "Android 8.0+",
       "signer": "MB2AUTO",
       "whats_new": "• Bản chuẩn nguyên bản ổn định cho Android Auto\n• Giữ lại 4 giao diện HUD chuẩn ổn định, loại bỏ lỗi hiển thị\n• Kích thước siêu nhẹ (~2.4 MB)\n• Tích hợp hệ thống khóa bản quyền & dùng thử\n• Hỗ trợ YouTube, trình duyệt, IPTV và HUD Waze"
-    },
-    {
-      "pkg": "com.waze",
-      "name": "Waze Mod Việt Nam",
-      "cat": "Dẫn đường & Cảnh báo",
-      "ver": "12.0 (Khuyên dùng)",
-      "version_code": 1021460,
-      "size": 105000000,
-      "icon_letter": "W",
-      "icon_color": "#06B6D4",
-      "sub": "Bản tùy biến tối ưu cho tài xế Việt Nam: Cảnh báo camera phạt nguội, tốc độ giới hạn",
-      "url": "https://media.chisadin.id.vn/Waze/V12/release/Waze_Mod_6.0_release_20260904_210602.apk",
-      "icon_url": "",
-      "shots": [],
-      "min_android": "Android 8.0+",
-      "signer": "WazeMod VN",
-      "whats_new": "• Nguồn chính thức wazemod.io.vn\n• Cảnh báo camera phạt nguội, camera tốc độ tức thì\n• Đọc giới hạn tốc độ từng cung đường\n• Phát dữ liệu trực tiếp sang HUD của MB2AUTO"
     }
   ],
   "cats": [
     "Tất cả",
-    "Giao diện xe",
-    "Dẫn đường & Cảnh báo"
+    "Giao diện xe"
   ]
 }

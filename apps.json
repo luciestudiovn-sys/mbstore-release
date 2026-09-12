@@ -1,9 +1,11 @@
 [
   {
     "id": "mb2auto-v1",
-    "name": "MB2AUTO (V1)",
+    "name": "MB2AUTO V1",
     "packageName": "com.monbon4car.mobile",
-    "tagline": "Xem YouTube Full HD, Web, IPTV & HUD Waze Mod nổi không quảng cáo",
+    "author": "MB Team",
+    "developer": "MB Team",
+    "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
     "currentVersion": "v2.6.1-v1",
     "updatedAt": "11/09/2026",
@@ -11,21 +13,19 @@
     "downloads": "185K+",
     "rating": 5.0,
     "icon": "youtube",
-    "accentColor": "#EF4444",
+    "accentColor": "#2563eb",
     "featured": true,
     "requiresRoot": false,
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": false,
-    "summary": "Phiên bản chuẩn ổn định cho Android Auto tích hợp Chữ ký số RSA bảo mật, YouTube không quảng cáo, chạy nền khi tắt màn hình, HUD Waze Mod nổi.",
-    "description": "MB2AUTO là giải pháp hàng đầu đưa YouTube lên màn hình Android Auto nguyên bản (OEM) của tất cả các dòng xe: VinFast, Mazda, Hyundai, Kia, Ford, Honda, Toyota... Không cần tháo lắp màn hình, không can thiệp phần cứng. Tinh chỉnh 60fps mượt mà, tắt quảng cáo hoàn toàn, hỗ trợ hiển thị nổi HUD Waze Mod.",
+    "summary": "Xem YouTube Full HD không quảng cáo, chạy nền và tương thích phím vô lăng trên Android Auto.",
+    "description": "MB2AUTO hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần cứng. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
     "mainFeatures": [
-      "Xem YouTube Full HD không quảng cáo, chạy nền mượt mà khi tắt màn hình",
-      "Tích hợp HUD Waze Mod: Cảnh báo tốc độ và camera phạt nguội nổi trên video",
+      "Xem YouTube không quảng cáo, chạy nền mượt mà khi tắt màn hình",
       "Đọc danh sách kênh IPTV truyền hình trực tuyến VTV, thể thao",
-      "Bảo mật cao cấp: Chữ ký số RSA Offline kích hoạt tức thì",
-      "Hỗ trợ phím Next/Prev bài hát và Volume trên vô lăng (Steering Wheel Controls)"
+      "Hỗ trợ phím Next/Prev bài hát và Volume trên vô lăng"
     ],
-    "carCompatibility": "Tương thích tất cả các xe hỗ trợ Android Auto (Zin hoặc Màn lắp thêm)",
+    "carCompatibility": "Tương thích mọi dòng xe hỗ trợ Android Auto",
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
@@ -36,39 +36,40 @@
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Bản phát hành chính thức V1 tích hợp Chữ ký số RSA 2048-bit bảo mật",
-          "Tối ưu R8/ProGuard siêu nhẹ, mượt mà và an toàn",
-          "Tối ưu tốc độ khởi động cùng xe khi cắm cáp USB"
+          "Bản chuẩn V1 ổn định cho Android Auto",
+          "Tối ưu siêu nhẹ, khởi động nhanh cùng xe"
         ]
       }
     ]
   },
   {
     "id": "waze-mod-vn",
-    "name": "Waze Mod Speed & Cam VN",
+    "name": "Waze: Bản đồ & Cảnh báo GT",
     "packageName": "com.waze",
-    "tagline": "Cảnh báo camera phạt nguội & giới hạn tốc độ tiếng Việt chuẩn cho xe",
-    "category": "Bản đồ & Cảnh báo",
+    "author": "Waze",
+    "developer": "Waze (Google LLC)",
+    "tagline": "Bản đồ GPS, giao thông trực tiếp & cảnh báo camera",
+    "category": "Bản đồ & Xe cộ",
     "currentVersion": "v12.0-VN",
     "updatedAt": "04/09/2026",
     "size": "85.8 MB",
     "downloads": "210K+",
     "rating": 4.9,
     "icon": "navigation",
-    "accentColor": "#00D2FF",
+    "accentColor": "#0284c7",
     "featured": true,
     "requiresRoot": false,
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": false,
-    "summary": "Bản mod Waze độc quyền bởi cộng đồng tài xế Việt. Phát cảnh báo tốc độ, camera phạt nguội và truyền dữ liệu thời gian thực sang HUD MB2AUTO.",
-    "description": "Waze Mod Việt Nam là công cụ dẫn đường được hàng vạn bác tài tin cậy. Dữ liệu camera giao thông được cập nhật liên tục hàng tuần bởi cộng đồng. Khi kết hợp cùng MB2AUTO, thông tin giới hạn tốc độ và camera sẽ được hiển thị dạng bong bóng nổi trực tiếp trên video YouTube hoặc bản đồ xe.",
+    "summary": "Bản đồ dẫn đường GPS, thông tin giao thông thời gian thực và cảnh báo từ cộng đồng tài xế.",
+    "description": "Luôn biết trước tình hình đường sá với Waze. Ngay cả khi bạn đã biết đường, Waze vẫn báo trước về tình trạng giao thông, công trình, cảnh sát, tai nạn theo thời gian thực và tự động đổi lộ trình nhanh nhất.",
     "mainFeatures": [
-      "Dữ liệu camera phạt nguội toàn quốc cập nhật 2026",
-      "Cảnh báo bằng giọng nói tiếng Việt tự nhiên, chính xác",
-      "Truyền dữ liệu tốc độ thời gian thực sang HUD nổi của MB2AUTO",
-      "Hoạt động song song cùng Google Maps hoặc nghe nhạc/YouTube"
+      "Lộ trình thông minh theo giao thông thời gian thực",
+      "Cảnh báo sớm: Cảnh sát, camera bắn tốc độ, tai nạn",
+      "Đồng hồ đo tốc độ & cảnh báo chạy quá tốc độ",
+      "Hiển thị trực tiếp trên màn hình Android Auto ô tô"
     ],
-    "carCompatibility": "Cài đặt trực tiếp trên điện thoại Android, kết nối tự động với Android Auto",
+    "carCompatibility": "Kết nối tự động với Android Auto trên màn hình xe",
     "githubRepo": "https://media.chisadin.id.vn",
     "versions": [
       {
@@ -79,9 +80,8 @@
         "githubReleaseUrl": "https://media.chisadin.id.vn",
         "isLatest": true,
         "changelog": [
-          "Cập nhật dữ liệu camera phạt nguội tháng 09/2026",
-          "Tối ưu độ nhạy GPS khi xe di chuyển tốc độ cao",
-          "Sửa lỗi kết nối broadcast với MB2AUTO HUD"
+          "Dữ liệu camera phạt nguội cập nhật mới",
+          "Tối ưu cảnh báo giao thông trên Android Auto"
         ]
       }
     ]
