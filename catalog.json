@@ -46,13 +46,13 @@
       "size": 164056371,
       "icon_letter": "W",
       "icon_color": "#0284c7",
-      "sub": "Bản đồ dẫn đường, cảnh báo camera phạt nguội & tự động kết nối Socket MB2AUTO",
+      "sub": "Bản mod từ Waze v12 (ShindouAris), cảnh báo camera & Auto-Pair MB2AUTO",
       "url": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
       "icon_url": "",
       "shots": [],
       "min_android": "Android 8.0+",
-      "signer": "WazeMod",
-      "whats_new": "• Cài đặt sẵn chế độ HUD Link WebSocket 127.0.0.1:8765\n• Tự động pair và gửi tín hiệu telemetry cho MB2AUTO ngay khi mở app\n• Cảnh báo camera phạt nguội, tốc độ giới hạn chính xác"
+      "signer": "ShindouAris (Waze v12)",
+      "whats_new": "• Phát triển dựa trên bản Waze Mod v12 của tác giả ShindouAris\n• Cài đặt sẵn chế độ HUD Link WebSocket 127.0.0.1:8765 tự động\n• Tự động pair và gửi tín hiệu telemetry cho MB2AUTO ngay khi mở app\n• Cảnh báo camera phạt nguội, tốc độ giới hạn chính xác"
     }
   ],
   "cats": [

@@ -90,8 +90,8 @@
     "id": "waze-mod-vn",
     "name": "Waze: Bản đồ & Cảnh báo GT",
     "packageName": "com.waze",
-    "author": "Waze",
-    "developer": "Waze (Google LLC)",
+    "author": "ShindouAris",
+    "developer": "ShindouAris (Mod từ Waze v12)",
     "tagline": "Bản đồ GPS, giao thông trực tiếp & cảnh báo camera",
     "category": "Bản đồ & Xe cộ",
     "currentVersion": "v10.0-AutoPair",
@@ -105,25 +105,27 @@
     "requiresRoot": false,
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": false,
-    "summary": "Bản đồ dẫn đường GPS, cảnh báo camera phạt nguội và tự động kết nối Socket MB2AUTO.",
-    "description": "Luôn biết trước tình hình đường sá với Waze. Ngay cả khi bạn đã biết đường, Waze vẫn báo trước về tình trạng giao thông, công trình, cảnh sát, tai nạn theo thời gian thực và tự động đổi lộ trình nhanh nhất.",
+    "summary": "Bản Waze mod từ bản v12 của tác giả ShindouAris, cảnh báo camera phạt nguội và tự động kết nối Socket MB2AUTO.",
+    "description": "Bản Waze Mod phát triển dựa trên bản v12 của tác giả ShindouAris. Luôn biết trước tình hình đường sá với Waze, tích hợp dữ liệu camera phạt nguội và tự động phát dữ liệu telemetry sang MB2AUTO.",
     "mainFeatures": [
+      "Phát triển từ bản Waze Mod v12 của tác giả ShindouAris",
       "Lộ trình thông minh theo giao thông thời gian thực",
       "Cảnh báo sớm: Cảnh sát, camera bắn tốc độ, tai nạn",
       "Đồng hồ đo tốc độ & cảnh báo chạy quá tốc độ",
-      "Hiển thị trực tiếp trên màn hình Android Auto ô tô"
+      "Tự động pair telemetry trực tiếp sang MB2AUTO"
     ],
     "carCompatibility": "Kết nối tự động với Android Auto trên màn hình xe",
-    "githubRepo": "https://media.chisadin.id.vn",
+    "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
         "version": "v10.0-AutoPair",
         "releaseDate": "12/09/2026",
         "fileSize": "156 MB",
         "downloadUrl": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
-        "githubReleaseUrl": "https://media.chisadin.id.vn",
+        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
+          "Bản Waze mod từ phiên bản v12 của tác giả ShindouAris",
           "Cấu hình sẵn HUD Link WebSocket 127.0.0.1:8765 tự động",
           "Pair tức thì với MB2AUTO không cần cài đặt gì thêm",
           "Cảnh báo tốc độ và camera phạt nguội thời gian thực"
