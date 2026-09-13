@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.6.2-v1",
+    "currentVersion": "v2.00",
     "updatedAt": "13/09/2026",
     "size": "4.2 MB",
     "downloads": "185K+",
@@ -29,18 +29,20 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.6.2-v1",
+        "version": "v2.00",
+        "versionCode": 23,
         "releaseDate": "13/09/2026",
         "fileSize": "4.2 MB",
+        "checksum": "52869f6b6753b07743029171041dae11550067f5ba401a00866ca4d2f2c3ac7a",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Tích hợp Mb2CarAppService chuẩn Jetpack Car App, hiển thị đầy đủ icon trên Android Auto",
-          "Chuẩn hóa nhãn dịch vụ MB2AUTO Media",
-          "Tự động kết nối tức thì (Auto-Pair) với Waze Mod qua Socket 8765",
-          "Hiển thị biển báo tốc độ và camera phạt nguội trên Android Auto Media Card",
-          "Tối ưu mượt mà YouTube không quảng cáo, IPTV tự dừng khi thoát"
+          "Nâng cấp giao diện HUD Waze với 10 layout hoàn chỉnh: Sport, Minimalist, Radar, Cyber, Split cùng LaneGuidanceView native vector",
+          "Thẻ Waze Live Card trên trang chủ điện thoại thiết kế ngang hiện đại, hiển thị đầy đủ telemetry thời gian thực",
+          "Điều khiển YouTube trên điện thoại: tìm kiếm bài hát trực tiếp, phím Search IME tự đóng bàn phím và truyền lệnh lên xe",
+          "Phân định nhãn dịch vụ Android Auto: MB2AUTO (chính) và MB2AUTO Server (phụ), không còn hiện 2 tên trùng lặp",
+          "Tối ưu hóa bộ nhớ Bitmap và tương thích hoàn toàn Android Auto & Android 14"
         ]
       }
     ]

@@ -7,9 +7,9 @@
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO (V1)",
       "cat": "Giao diện xe",
-      "ver": "2.6.2",
-      "version_code": 19,
-      "size": 4365678,
+      "ver": "v2.00",
+      "version_code": 23,
+      "size": 4407906,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB2AUTO",
-      "whats_new": "• Tích hợp Mb2CarAppService chuẩn Jetpack Car App, hiển thị đầy đủ icon trên Android Auto\n• Chuẩn hóa nhãn dịch vụ MB2AUTO Media\n• Tự động kết nối tức thì (Auto-Pair) với Waze Mod qua Socket cổng 8765\n• Hiển thị biển báo tốc độ và camera phạt nguội trên Android Auto Media Card\n• Tối ưu mượt mà YouTube không quảng cáo, IPTV tự dừng khi thoát"
+      "whats_new": "• Nâng cấp 10 phong cách HUD Waze hoàn chỉnh với LaneGuidanceView native vector\n• Thẻ trạng thái kết nối Waze trên điện thoại thiết kế ngang tinh gọn, trực quan\n• Tìm kiếm YouTube trên điện thoại chuyển lệnh tức thì sang màn hình Android Auto\n• Phân định rõ ràng nhãn ứng dụng MB2AUTO và server phụ MB2AUTO Server\n• Tối ưu hóa hiệu năng, giảm tiêu thụ bộ nhớ và hoàn thiện tương thích Android 14"
     },
     {
       "pkg": "com.monbon4car.v2",
