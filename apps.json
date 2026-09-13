@@ -8,8 +8,8 @@
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
     "currentVersion": "v2.6.2-v1",
-    "updatedAt": "12/09/2026",
-    "size": "2.7 MB",
+    "updatedAt": "13/09/2026",
+    "size": "4.2 MB",
     "downloads": "185K+",
     "rating": 5.0,
     "icon": "youtube",
@@ -30,12 +30,14 @@
     "versions": [
       {
         "version": "v2.6.2-v1",
-        "releaseDate": "12/09/2026",
-        "fileSize": "2.7 MB",
+        "releaseDate": "13/09/2026",
+        "fileSize": "4.2 MB",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
+          "Tích hợp Mb2CarAppService chuẩn Jetpack Car App, hiển thị đầy đủ icon trên Android Auto",
+          "Chuẩn hóa nhãn dịch vụ MB2AUTO Media",
           "Tự động kết nối tức thì (Auto-Pair) với Waze Mod qua Socket 8765",
           "Hiển thị biển báo tốc độ và camera phạt nguội trên Android Auto Media Card",
           "Tối ưu mượt mà YouTube không quảng cáo, IPTV tự dừng khi thoát"
