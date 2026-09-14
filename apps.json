@@ -8,8 +8,8 @@
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
     "currentVersion": "v2.00",
-    "updatedAt": "14/09/2026",
-    "size": "5.2 MB",
+    "updatedAt": "13/09/2026",
+    "size": "4.2 MB",
     "downloads": "185K+",
     "rating": 5.0,
     "icon": "youtube",
@@ -31,9 +31,9 @@
       {
         "version": "v2.00",
         "versionCode": 23,
-        "releaseDate": "14/09/2026",
-        "fileSize": "5.2 MB",
-        "checksum": "1258ce96575fd14bc20c294266207629f1e6c1e2281606a91b1db39fbf154e35",
+        "releaseDate": "13/09/2026",
+        "fileSize": "4.2 MB",
+        "checksum": "18bfaa83bd9e96024cda5a317ba9e44588296f8199cc93a78b71193b314e468d",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
@@ -43,8 +43,7 @@
           "Thẻ Waze Live Card trên trang chủ điện thoại thiết kế ngang hiện đại, không chiếm màn hình",
           "Điều khiển YouTube trên điện thoại: tìm kiếm bài hát trực tiếp, phím Search IME tự đóng bàn phím và truyền lệnh lên xe",
           "Phân định nhãn dịch vụ Android Auto: MB2AUTO (chính) và MB2AUTO Server (phụ), không còn hiện 2 tên trùng lặp",
-          "Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ Bitmap và tương thích hoàn toàn Android 14",
-          "Hotfix Android Auto: giữ và republish artwork/metadata khi thoát MB2AUTO về launcher trong lúc media session vẫn đang phát"
+          "Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ Bitmap và tương thích hoàn toàn Android 14"
         ]
       }
     ]

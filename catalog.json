@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "v2.00",
       "version_code": 23,
-      "size": 5491240,
+      "size": 4407906,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Nâng cấp 10 phong cách HUD Waze hoàn chỉnh với LaneGuidanceView native vector\n• Thẻ trạng thái kết nối Waze trên điện thoại thiết kế ngang tinh gọn, trực quan\n• Tìm kiếm YouTube trên điện thoại chuyển lệnh tức thì sang màn hình Android Auto\n• Phân định rõ ràng nhãn ứng dụng MB2AUTO và server phụ MB2AUTO Server\n• Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ và tương thích Android 14\n• Hotfix Android Auto: giữ và republish artwork/metadata khi thoát MB2AUTO về launcher trong lúc media session vẫn đang phát"
+      "whats_new": "• Nâng cấp 10 phong cách HUD Waze hoàn chỉnh với LaneGuidanceView native vector\n• Thẻ trạng thái kết nối Waze trên điện thoại thiết kế ngang tinh gọn, trực quan\n• Tìm kiếm YouTube trên điện thoại chuyển lệnh tức thì sang màn hình Android Auto\n• Phân định rõ ràng nhãn ứng dụng MB2AUTO và server phụ MB2AUTO Server\n• Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ và tương thích Android 14"
     },
     {
       "pkg": "com.monbon4car.v2",
