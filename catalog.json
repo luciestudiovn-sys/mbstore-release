@@ -7,9 +7,9 @@
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO (V1)",
       "cat": "Giao diện xe",
-      "ver": "v2.02",
-      "version_code": 25,
-      "size": 4488190,
+      "ver": "v2.03",
+      "version_code": 26,
+      "size": 4488414,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Khôi phục độ phân giải Artwork HUD Waze mod sắc nét chuẩn 256x256 trên widget Android Auto Coolwalk\n• Bổ sung toàn diện thông tin viễn trắc: Tốc độ GPS thực tế từ thiết bị, biển báo giới hạn tốc độ tối thiểu, cảnh báo camera phạt nguội/CSGT kèm giới hạn tốc độ & khoảng cách\n• Hiển thị hướng rẽ chi tiết, tên đường tiếp theo, thời gian đến ETA & quãng đường còn lại\n• Tự động đánh thức Waze Mod khi kết nối Android Auto và tối ưu GPS 1s/lần"
+      "whats_new": "• Biển báo tốc độ phóng to rõ nét chuẩn quốc tế, dễ quan sát từ ghế lái\n• Banner cảnh báo tích hợp biển báo tốc độ tiếp theo dạng tròn trực quan\n• Nâng cấp độ phân giải 512x512 native chống mờ, loại bỏ chồng lấn chữ với widget gốc Android Auto\n• Tự động đánh thức com.waze khi mở app và kết nối xe\n• Bàn phím YouTube tự động ẩn khi nhấn tìm kiếm, Enter hoặc bắt đầu xem video"
     },
     {
       "pkg": "com.monbon4car.v2",

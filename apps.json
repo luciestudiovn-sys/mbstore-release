@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.02",
+    "currentVersion": "v2.03",
     "updatedAt": "16/09/2026",
     "size": "4.3 MB",
     "downloads": "185K+",
@@ -29,20 +29,21 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.02",
-        "versionCode": 25,
+        "version": "v2.03",
+        "versionCode": 26,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "88b5dc3555ad1766e87c9ec100f504c8e89bccd8db08bcfbd37cf007231fb982",
+        "checksum": "a886cb3db221585fcb3db09310981c25f5a8a3bb8ac4b179185bcea862836a43",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Khôi phục độ phân giải Artwork HUD Waze mod sắc nét chuẩn 256x256 trên widget Android Auto Coolwalk",
-          "Bổ sung toàn diện thông tin viễn trắc: Tốc độ GPS thực tế từ thiết bị, biển báo giới hạn tốc độ tối thiểu, cảnh báo camera phạt nguội/CSGT với giới hạn tốc độ & khoảng cách",
-          "Hiển thị mũi tên hướng rẽ chi tiết, tên đường tiếp theo, thời gian đến dự kiến ETA và quãng đường còn lại",
-          "Tự động đánh thức Waze Mod khi kết nối Android Auto và tối ưu tần suất cập nhật GPS 1s/lần mượt mà"
+          "Biển báo tốc độ góc phải phóng to rõ nét chuẩn quốc tế, dễ nhìn từ ghế lái",
+          "Tích hợp biển báo giới hạn tốc độ tiếp theo vào banner cảnh báo dạng hình tròn trực quan",
+          "Nâng độ phân giải 512x512 native chống mờ, loại bỏ hoàn toàn chồng lấn chữ với widget phát nhạc gốc Android Auto Coolwalk",
+          "Tự động đánh thức Waze Mod (com.waze) ngay khi mở ứng dụng hoặc kết nối xe",
+          "Bàn phím ảo YouTube tự động ẩn khi nhấn tìm kiếm, phím Enter, chọn video hoặc bắt đầu phát video"
         ]
       }
     ]
