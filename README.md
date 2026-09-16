@@ -9,7 +9,7 @@ Kho phân phối chính thức các bản cài đặt ứng dụng Android Auto 
 | Ứng dụng | Phiên bản | Kích thước | Tải về |
 | :--- | :--- | :--- | :--- |
 | **MB2AUTO (V1)** | v2.00 | 4.2 MB | [Tải MB2AUTO-FINAL-V1.apk](https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk) |
-| **MB Store** | v1.0.1 | 2.5 MB | [Tải MBStore.apk](https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MBStore.apk) |
+| **MB Store** | v1.0.1 (KingInstaller v1.9 Core) | 3.3 MB | [Tải MBStore.apk](https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MBStore.apk) |
 
 ---
 *Kho lưu trữ công khai (Public) dành riêng cho việc phân phối bản cài đặt và manifest.*
