@@ -33,18 +33,17 @@
         "versionCode": 23,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "8074eefe7ddd7bc042a598993d4ca27d25f1f9edc995fb67f45639739f78ec75",
+        "checksum": "30537bdd8f76d807acfec46157446ec237f23f3d6c86f03a2814e01df62c5c48",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Khắc phục triệt để lỗi ô Artwork HUD Waze mod không hiển thị và phím Play/Pause bị mờ trên Coolwalk split screen",
-          "Phân cấp danh mục MediaBrowserServiceCompat chuẩn Android Auto: root trả về FLAG_BROWSABLE và category trả về FLAG_PLAYABLE",
-          "Đồng bộ toàn diện METADATA_KEY_ART, METADATA_KEY_ALBUM_ART, QueueItem, và activeQueueItemId trên toàn bộ luồng phát",
-          "Khai báo MEDIA_SHOW_PLAYBACK_VIEW và gắn Session Token trực tiếp vào MediaStyle notification",
-          "Khởi chạy Foreground Service bền bỉ ngay từ MainActivity và CarProjectionService, chống LMKS kill tiến trình",
-          "Tối ưu kích thước Binder Parcel dưới 300KB (ALBUM_ART 256x256, DISPLAY_ICON 96x96), duration -1L cho Live HUD Waze mod"
+          "Khắc phục triệt để lỗi ô Artwork HUD Waze mod bị kẹt grey skeleton trên Coolwalk split screen",
+          "Tối ưu kích thước Metadata Binder Parcel: giảm ARTWORK_TRANSPORT_SIZE xuống 128x128 và DISPLAY_ICON xuống 48x48",
+          "Loại bỏ duplicate METADATA_KEY_ART, cắt giảm tổng dung lượng parcel bitmap từ 560KB xuống ~74KB (-87%)",
+          "Đảm bảo truyền tải an toàn qua IPC USB/Wi-Fi tới Android Auto head unit mà không bị nghẽn hay drop metadata",
+          "Duy trì MediaSessionCompat và PlaybackStateCompat chuẩn cho Coolwalk split screen widget"
         ]
       }
     ]
