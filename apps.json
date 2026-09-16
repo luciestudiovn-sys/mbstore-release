@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.01",
+    "currentVersion": "v2.02",
     "updatedAt": "16/09/2026",
     "size": "4.3 MB",
     "downloads": "185K+",
@@ -29,20 +29,20 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.01",
-        "versionCode": 24,
+        "version": "v2.02",
+        "versionCode": 25,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "58d5f646e6a44bc503ccd934cda14d659c7451d68abf67efce99f6dea8271a6a",
+        "checksum": "88b5dc3555ad1766e87c9ec100f504c8e89bccd8db08bcfbd37cf007231fb982",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Cố định hiển thị thẻ viễn trắc HUD Waze mod ở ô widget Coolwalk bên phải khi chạy bản đồ Google Maps bên trái",
-          "Cập nhật realtime tốc độ, giới hạn tốc độ, hướng rẽ, khoảng cách, cảnh báo camera phạt nguội/CSGT",
-          "Đồng bộ kép METADATA_KEY_ART và METADATA_KEY_ALBUM_ART tương thích toàn diện mọi đầu xe OEM",
-          "Khắc phục triệt để mất focus do Spotify và tối ưu Binder IPC dung lượng an toàn"
+          "Khôi phục độ phân giải Artwork HUD Waze mod sắc nét chuẩn 256x256 trên widget Android Auto Coolwalk",
+          "Bổ sung toàn diện thông tin viễn trắc: Tốc độ GPS thực tế từ thiết bị, biển báo giới hạn tốc độ tối thiểu, cảnh báo camera phạt nguội/CSGT với giới hạn tốc độ & khoảng cách",
+          "Hiển thị mũi tên hướng rẽ chi tiết, tên đường tiếp theo, thời gian đến dự kiến ETA và quãng đường còn lại",
+          "Tự động đánh thức Waze Mod khi kết nối Android Auto và tối ưu tần suất cập nhật GPS 1s/lần mượt mà"
         ]
       }
     ]
