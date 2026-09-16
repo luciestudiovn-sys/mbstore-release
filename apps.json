@@ -31,20 +31,18 @@
       {
         "version": "v2.00",
         "versionCode": 23,
-        "releaseDate": "14/09/2026",
-        "fileSize": "4.2 MB",
-        "checksum": "e32d8d2c3ffd43ba613c32832f3125b2f87ef17664a69816fe13bcac694ec3ac",
+        "releaseDate": "16/09/2026",
+        "fileSize": "4.3 MB",
+        "checksum": "da85090722710a25c113acd93fefa8036982994d415e495d8699ff8d807cfa8a",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
+          "Khắc phục triệt để lỗi YouTube dừng phát khi thoát ra màn hình ngoài Android Auto (duy trì phát nền liên tục)",
+          "Live Artwork động trên màn hình xe Coolwalk: cập nhật thời gian thực tên đường, cảnh báo camera phạt nguội / CSGT và giờ đến nơi (ETA) từ Waze mod",
           "Nâng cấp 10 phong cách HUD Waze hoàn chỉnh với LaneGuidanceView native vector",
-          "Thẻ Waze Live Card trên trang chủ điện thoại thiết kế ngang hiện đại, không chiếm màn hình",
-          "Điều khiển YouTube trên điện thoại: tìm kiếm bài hát trực tiếp, phím Search IME tự đóng bàn phím và truyền lệnh lên xe",
-          "Phân định nhãn dịch vụ Android Auto: MB2AUTO (chính) và MB2AUTO Server (phụ), không còn hiện 2 tên trùng lặp",
-          "Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ Bitmap và tương thích hoàn toàn Android 14",
-          "Hotfix Android Auto: giữ và republish artwork/metadata khi thoát MB2AUTO về launcher trong lúc media session vẫn đang phát"
+          "Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ Bitmap và tương thích Android 14/15/16"
         ]
       }
     ]
