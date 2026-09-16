@@ -33,17 +33,18 @@
         "versionCode": 23,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "6443f077ccc92a9ed9b914459f7ef9e92791423ddd43c9915bfee2a55b51715d",
+        "checksum": "2eddfd36eda452db76a4b13947410df485931d07ae2a0330d98a32832362d5e2",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Chuyển đổi Mb2CarAppService sang category MEDIA và tích hợp MediaPlaybackManager registerMediaPlaybackToken",
-          "Android Auto Coolwalk tự động hiển thị MB2AUTO Live HUD trên widget split-screen khi xem Google Maps, không bị Spotify thay thế",
-          "Chủ động giữ Audio Focus GAIN và MediaSession STATE_PLAYING, đàn áp Spotify liên tục",
-          "Khắc phục triệt để lỗi YouTube dừng phát khi thoát ra màn hình ngoài Android Auto (duy trì phát nền liên tục)",
-          "Live Artwork động trên màn hình xe Coolwalk: cập nhật thời gian thực tên đường, cảnh báo camera phạt nguội / CSGT và giờ đến nơi (ETA) từ Waze mod"
+          "Chuyển đổi sang MediaSessionCompat và MediaBrowserServiceCompat chuẩn AIDL Android Auto",
+          "Sửa triệt để lỗi phím Play/Pause bị mờ và ô Artwork HUD Waze mod không hiển thị trên Coolwalk split screen",
+          "Khắc phục lỗi SecurityException crash tiến trình khi mở app MB2AUTO từ màn hình xe (chỉ định launchDisplayId DEFAULT_DISPLAY)",
+          "Khai báo action mask CarStream chuẩn FULL_MEDIA_ACTIONS (85887L) giữ điều khiển Media luôn kích hoạt",
+          "Tối ưu kích thước Binder Parcel dưới 300KB (ALBUM_ART 256x256, DISPLAY_ICON 96x96), duration -1L cho Live HUD Waze mod",
+          "Android Auto Coolwalk hiển thị MB2AUTO Live HUD trên widget split-screen khi xem Google Maps, không bị Spotify thay thế"
         ]
       }
     ]

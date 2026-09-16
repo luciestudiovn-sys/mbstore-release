@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "v2.00",
       "version_code": 23,
-      "size": 4469402,
+      "size": 4485170,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Chuyển đổi Mb2CarAppService sang category MEDIA & MediaPlaybackManager: Coolwalk hiển thị MB2AUTO Live HUD trên widget khi xem Google Maps, không bị Spotify thay thế\n• Chủ động giữ Audio Focus GAIN và MediaSession STATE_PLAYING, đàn áp Spotify liên tục\n• Khắc phục triệt để lỗi YouTube dừng phát khi thoát ra màn hình ngoài Android Auto (duy trì phát nền liên tục)\n• Live Artwork động trên màn hình xe Coolwalk: cập nhật thời gian thực tên đường, cảnh báo camera / CSGT và ETA từ Waze mod"
+      "whats_new": "• Chuyển đổi MediaSessionCompat & MediaBrowserServiceCompat chuẩn AIDL Android Auto\n• Hiển thị mượt mà Live Artwork HUD Waze mod và kích hoạt đầy đủ nút Play/Pause trên widget Coolwalk\n• Khắc phục triệt để SecurityException khi bấm mở app MB2AUTO từ màn hình xe ô tô\n• Action mask CarStream FULL_MEDIA_ACTIONS (85887L) & duration -1L giữ widget luôn hoạt động\n• Tối ưu kích thước Binder Parcel <300KB tránh IPC transaction overflow"
     },
     {
       "pkg": "com.monbon4car.v2",
