@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "v2.00",
       "version_code": 23,
-      "size": 4485170,
+      "size": 4486042,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Chuyển đổi MediaSessionCompat & MediaBrowserServiceCompat chuẩn AIDL Android Auto\n• Hiển thị mượt mà Live Artwork HUD Waze mod và kích hoạt đầy đủ nút Play/Pause trên widget Coolwalk\n• Khắc phục triệt để SecurityException khi bấm mở app MB2AUTO từ màn hình xe ô tô\n• Action mask CarStream FULL_MEDIA_ACTIONS (85887L) & duration -1L giữ widget luôn hoạt động\n• Tối ưu kích thước Binder Parcel <300KB tránh IPC transaction overflow"
+      "whats_new": "• Phân cấp danh mục MediaBrowserServiceCompat chuẩn Android Auto (root browsable, category playable)\n• Đồng bộ toàn diện METADATA_KEY_ART, METADATA_KEY_ALBUM_ART, QueueItem, và activeQueueItemId\n• Hiển thị mượt mà Live Artwork HUD Waze mod và kích hoạt đầy đủ phím Play/Pause trên widget Coolwalk\n• Khởi chạy Foreground Service bền bỉ chống LMKS kill tiến trình khi tắt màn hình hoặc chuyển app"
     },
     {
       "pkg": "com.monbon4car.v2",

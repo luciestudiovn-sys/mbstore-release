@@ -33,18 +33,18 @@
         "versionCode": 23,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "2eddfd36eda452db76a4b13947410df485931d07ae2a0330d98a32832362d5e2",
+        "checksum": "8074eefe7ddd7bc042a598993d4ca27d25f1f9edc995fb67f45639739f78ec75",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Chuyển đổi sang MediaSessionCompat và MediaBrowserServiceCompat chuẩn AIDL Android Auto",
-          "Sửa triệt để lỗi phím Play/Pause bị mờ và ô Artwork HUD Waze mod không hiển thị trên Coolwalk split screen",
-          "Khắc phục lỗi SecurityException crash tiến trình khi mở app MB2AUTO từ màn hình xe (chỉ định launchDisplayId DEFAULT_DISPLAY)",
-          "Khai báo action mask CarStream chuẩn FULL_MEDIA_ACTIONS (85887L) giữ điều khiển Media luôn kích hoạt",
-          "Tối ưu kích thước Binder Parcel dưới 300KB (ALBUM_ART 256x256, DISPLAY_ICON 96x96), duration -1L cho Live HUD Waze mod",
-          "Android Auto Coolwalk hiển thị MB2AUTO Live HUD trên widget split-screen khi xem Google Maps, không bị Spotify thay thế"
+          "Khắc phục triệt để lỗi ô Artwork HUD Waze mod không hiển thị và phím Play/Pause bị mờ trên Coolwalk split screen",
+          "Phân cấp danh mục MediaBrowserServiceCompat chuẩn Android Auto: root trả về FLAG_BROWSABLE và category trả về FLAG_PLAYABLE",
+          "Đồng bộ toàn diện METADATA_KEY_ART, METADATA_KEY_ALBUM_ART, QueueItem, và activeQueueItemId trên toàn bộ luồng phát",
+          "Khai báo MEDIA_SHOW_PLAYBACK_VIEW và gắn Session Token trực tiếp vào MediaStyle notification",
+          "Khởi chạy Foreground Service bền bỉ ngay từ MainActivity và CarProjectionService, chống LMKS kill tiến trình",
+          "Tối ưu kích thước Binder Parcel dưới 300KB (ALBUM_ART 256x256, DISPLAY_ICON 96x96), duration -1L cho Live HUD Waze mod"
         ]
       }
     ]
