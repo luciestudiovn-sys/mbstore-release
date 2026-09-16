@@ -7,9 +7,9 @@
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO (V1)",
       "cat": "Giao diện xe",
-      "ver": "v2.03",
-      "version_code": 26,
-      "size": 4488414,
+      "ver": "v2.04",
+      "version_code": 27,
+      "size": 4490178,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Biển báo tốc độ phóng to rõ nét chuẩn quốc tế, dễ quan sát từ ghế lái\n• Banner cảnh báo tích hợp biển báo tốc độ tiếp theo dạng tròn trực quan\n• Nâng cấp độ phân giải 512x512 native chống mờ, loại bỏ chồng lấn chữ với widget gốc Android Auto\n• Tự động đánh thức com.waze khi mở app và kết nối xe\n• Bàn phím YouTube tự động ẩn khi nhấn tìm kiếm, Enter hoặc bắt đầu xem video"
+      "whats_new": "• Nút Zoom Video đa năng: Hỗ trợ 100% video (YouTube, Shorts, HTML5), toggle Fullscreen -> Phóng to lấp đầy màn hình (loại bỏ viền đen) -> Trở về chuẩn\n• Hỗ trợ toàn diện phím bấm trên vô lăng & màn hình xe: Next (tiến), Lùi (Prev), Play/Pause, tua bài\n• Nút Micro Voice tìm kiếm trực tiếp trên thanh sidebar màn hình xe, nhận diện giọng nói tiếng Việt tức thì\n• Đã lưu bản sao lưu checkpoint v2.03 CP-061 trong thư mục backup"
     },
     {
       "pkg": "com.monbon4car.v2",

@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.03",
+    "currentVersion": "v2.04",
     "updatedAt": "16/09/2026",
     "size": "4.3 MB",
     "downloads": "185K+",
@@ -29,21 +29,20 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.03",
-        "versionCode": 26,
+        "version": "v2.04",
+        "versionCode": 27,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "a886cb3db221585fcb3db09310981c25f5a8a3bb8ac4b179185bcea862836a43",
+        "checksum": "4ee6e0dd76df98c98ce36c08ebc88ec758043ed91f8bbbeca6c68be8ef91d232",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Biển báo tốc độ góc phải phóng to rõ nét chuẩn quốc tế, dễ nhìn từ ghế lái",
-          "Tích hợp biển báo giới hạn tốc độ tiếp theo vào banner cảnh báo dạng hình tròn trực quan",
-          "Nâng độ phân giải 512x512 native chống mờ, loại bỏ hoàn toàn chồng lấn chữ với widget phát nhạc gốc Android Auto Coolwalk",
-          "Tự động đánh thức Waze Mod (com.waze) ngay khi mở ứng dụng hoặc kết nối xe",
-          "Bàn phím ảo YouTube tự động ẩn khi nhấn tìm kiếm, phím Enter, chọn video hoặc bắt đầu phát video"
+          "Nút Zoom Video đa năng: Hỗ trợ 100% video (YouTube, Shorts, HTML5), chuyển đổi Fullscreen -> Phóng to lấp đầy màn hình (loại bỏ viền đen) -> Trở về chuẩn",
+          "Hỗ trợ đầy đủ các phím bấm trên vô lăng & màn hình xe ô tô: Next (tiến bài), Lùi (Prev), Play, Pause, tua bài",
+          "Tích hợp nút Micro Voice tìm kiếm trực tiếp trên thanh sidebar màn hình xe, nhận diện giọng nói tiếng Việt tức thì",
+          "Đã lưu bản sao lưu checkpoint v2.03 CP-061 trong thư mục backup"
         ]
       }
     ]
