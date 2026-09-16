@@ -5,11 +5,11 @@
   "apps": [
     {
       "pkg": "com.monbon4car.mobile",
-      "name": "MB2AUTO (V1)",
+      "name": "MB2AUTO",
       "cat": "Giao diện xe",
-      "ver": "v2.05",
-      "version_code": 28,
-      "size": 4490446,
+      "ver": "v2.06",
+      "version_code": 29,
+      "size": 4490502,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,24 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Tối ưu hiệu năng toàn diện: Tiết kiệm 90% CPU script auto-skip YouTube ads với cơ chế polling động\n• Kích hoạt offscreenPreRaster & OVER_SCROLL_NEVER: Cuộn trang 60fps mượt mà, triệt tiêu lag giật\n• Bộ lọc chống rung giật tốc độ GPS drift ở dải tốc độ thấp khi xe dừng/đỗ đèn đỏ\n• Đảm bảo 100% chức năng: HUD Waze 512x512 sắc nét, phím vô lăng, Micro Voice sidebar, Universal Zoom"
-    },
-    {
-      "pkg": "com.monbon4car.v2",
-      "name": "MB2AUTO (V2)",
-      "cat": "Giao diện xe",
-      "ver": "2.0.0",
-      "version_code": 20,
-      "size": 2672235,
-      "icon_letter": "V2",
-      "icon_color": "#8B5CF6",
-      "sub": "Bản giao diện hiện đại Web Shell UI, hỗ trợ CarAppService & cài song song V1",
-      "url": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V2.apk",
-      "icon_url": "",
-      "shots": [],
-      "min_android": "Android 8.0+",
-      "signer": "MB2AUTO",
-      "whats_new": "• Kiến trúc hiện đại WebView Shell + Native Bridge\n• Hỗ trợ CarAppService chuẩn Google Car App Library\n• Tên gói riêng biệt com.monbon4car.v2, cài đặt song song không đè V1"
+      "whats_new": "• Khắc phục triệt để lỗi dừng phát nhạc YouTube khi thoát (out) ra màn hình chính Android Auto\n• Phục hồi 100% cơ chế chạy nền mượt mà ổn định như bản v2.03 CP-061\n• Bảo toàn toàn diện các tính năng: phím vô lăng Next/Prev/Play/Pause, micro voice sidebar, universal zoom 3 bước, HUD Waze 512x512 native"
     },
     {
       "pkg": "com.waze",
