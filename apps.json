@@ -33,15 +33,15 @@
         "versionCode": 23,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "da85090722710a25c113acd93fefa8036982994d415e495d8699ff8d807cfa8a",
+        "checksum": "134af368574ed71770d2401a462ce18414558cdb9a179699f6b93b8670f3a542",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
+          "Xử lý triệt để xung đột Spotify trên widget AA: Chủ động giữ Audio Focus và MediaSession STATE_PLAYING, đàn áp Spotify không cho chiếm mất widget phát",
           "Khắc phục triệt để lỗi YouTube dừng phát khi thoát ra màn hình ngoài Android Auto (duy trì phát nền liên tục)",
           "Live Artwork động trên màn hình xe Coolwalk: cập nhật thời gian thực tên đường, cảnh báo camera phạt nguội / CSGT và giờ đến nơi (ETA) từ Waze mod",
-          "Nâng cấp 10 phong cách HUD Waze hoàn chỉnh với LaneGuidanceView native vector",
           "Ký bằng Production Certificate chính thức của MB Team, tối ưu hóa bộ nhớ Bitmap và tương thích Android 14/15/16"
         ]
       }
