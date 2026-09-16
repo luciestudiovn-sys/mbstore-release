@@ -33,17 +33,16 @@
         "versionCode": 23,
         "releaseDate": "16/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "30537bdd8f76d807acfec46157446ec237f23f3d6c86f03a2814e01df62c5c48",
+        "checksum": "280293ae8441f1605f374296721508b9c8a4519ac554a7fe7afbfaa8538cdb58",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Khắc phục triệt để lỗi ô Artwork HUD Waze mod bị kẹt grey skeleton trên Coolwalk split screen",
-          "Tối ưu kích thước Metadata Binder Parcel: giảm ARTWORK_TRANSPORT_SIZE xuống 128x128 và DISPLAY_ICON xuống 48x48",
-          "Loại bỏ duplicate METADATA_KEY_ART, cắt giảm tổng dung lượng parcel bitmap từ 560KB xuống ~74KB (-87%)",
-          "Đảm bảo truyền tải an toàn qua IPC USB/Wi-Fi tới Android Auto head unit mà không bị nghẽn hay drop metadata",
-          "Duy trì MediaSessionCompat và PlaybackStateCompat chuẩn cho Coolwalk split screen widget"
+          "Cố định hiển thị thẻ viễn trắc HUD Waze mod ở ô widget Coolwalk bên phải khi chạy bản đồ Google Maps bên trái",
+          "Cập nhật realtime tốc độ, giới hạn tốc độ, hướng rẽ, khoảng cách, cảnh báo camera phạt nguội/CSGT",
+          "Đồng bộ kép METADATA_KEY_ART và METADATA_KEY_ALBUM_ART tương thích toàn diện mọi đầu xe OEM",
+          "Khắc phục triệt để mất focus do Spotify và tối ưu Binder IPC dung lượng an toàn"
         ]
       }
     ]

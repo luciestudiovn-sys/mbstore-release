@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "v2.00",
       "version_code": 23,
-      "size": 4485978,
+      "size": 4486174,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Tối ưu kích thước Binder Parcel Metadata (giảm ARTWORK_TRANSPORT_SIZE xuống 128x128, DISPLAY_ICON xuống 48x48)\n• Cắt giảm tổng dung lượng parcel bitmap từ 560KB xuống ~74KB (-87%), loại bỏ drop metadata trên head unit\n• Khắc phục triệt để lỗi ô Artwork HUD Waze mod bị kẹt grey skeleton trên Android Auto Coolwalk\n• Duy trì MediaSessionCompat và phím Play/Pause ổn định mượt mà"
+      "whats_new": "• Cố định hiển thị thẻ viễn trắc HUD Waze mod ở ô widget Coolwalk bên phải khi chạy bản đồ Maps bên trái\n• Cập nhật realtime tốc độ, giới hạn tốc độ, hướng rẽ, khoảng cách, cảnh báo camera phạt nguội/CSGT\n• Đồng bộ kép METADATA_KEY_ART và METADATA_KEY_ALBUM_ART tương thích mọi đầu xe OEM\n• Khắc phục triệt để mất focus do Spotify và tối ưu Binder IPC dung lượng an toàn"
     },
     {
       "pkg": "com.monbon4car.v2",
