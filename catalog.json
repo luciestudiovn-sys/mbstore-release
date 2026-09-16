@@ -7,9 +7,9 @@
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO",
       "cat": "Giao diện xe",
-      "ver": "v2.06",
-      "version_code": 29,
-      "size": 4490502,
+      "ver": "v2.07",
+      "version_code": 30,
+      "size": 4489906,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Khắc phục triệt để lỗi dừng phát nhạc YouTube khi thoát (out) ra màn hình chính Android Auto\n• Phục hồi 100% cơ chế chạy nền mượt mà ổn định như bản v2.03 CP-061\n• Bảo toàn toàn diện các tính năng: phím vô lăng Next/Prev/Play/Pause, micro voice sidebar, universal zoom 3 bước, HUD Waze 512x512 native"
+      "whats_new": "• Khắc phục triệt để lỗi YouTube bị co nhỏ về góc trên bên trái khi đổi hình nền\n• Khắc phục triệt để lỗi mất viễn trắc Live HUD Waze ở widget ngoài màn hình chính Android Auto (Coolwalk)\n• Xử lý triệt để MB Media Server chạy ngầm trên điện thoại, bỏ ép Spotify giúp đổi nhạc linh hoạt\n• Dừng hoàn toàn âm thanh IPTV khi thoát ra ngoài, chống kẹt toàn màn hình khi mở lại"
     },
     {
       "pkg": "com.waze",
