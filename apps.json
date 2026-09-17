@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.10",
+    "currentVersion": "v2.11",
     "updatedAt": "17/09/2026",
     "size": "5.3 MB",
     "downloads": "185K+",
@@ -29,6 +29,21 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
+        "version": "v2.11",
+        "versionCode": 34,
+        "releaseDate": "2026-09-17",
+        "fileSize": 5600000,
+        "sha256": "fdbc757612ce4f88ae4e8df4998c295967cccffc2befde6e4c8c15c9aa5b508e",
+        "signer": "MB Team (Monbon For Car)",
+        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "isLatest": true,
+        "changelog": [
+          "Khắc phục triệt để lỗi HUD Waze bị ẩn khi thoát ra màn hình chính Android Auto (Coolwalk).",
+          "Giữ nguyên tính năng nhường âm thanh cho Spotify, Waze HUD sẽ tự động cướp Widget khi Spotify không phát nhạc."
+        ]
+      },
+      {
         "version": "v2.10",
         "versionCode": 33,
         "releaseDate": "17/09/2026",
@@ -37,7 +52,7 @@
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": true,
+        "isLatest": false,
         "changelog": [
           "Sửa lỗi HUD Waze bị ẩn khỏi widget Coolwalk màn hình ngoài Android Auto khi thoát ứng dụng",
           "Duy trì widget MB2AUTO luôn hiển thị ổn định mà không gây xung đột (gián đoạn) âm thanh với Spotify"
