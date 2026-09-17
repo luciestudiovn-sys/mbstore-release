@@ -7,9 +7,9 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.08",
+    "currentVersion": "v2.09",
     "updatedAt": "17/09/2026",
-    "size": "4.3 MB",
+    "size": "5.3 MB",
     "downloads": "185K+",
     "rating": 5.0,
     "icon": "youtube",
@@ -29,21 +29,19 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.08",
-        "versionCode": 31,
+        "version": "v2.09",
+        "versionCode": 32,
         "releaseDate": "17/09/2026",
-        "fileSize": "4.3 MB",
-        "checksum": "d728c80de649ba84a694f7a4df74030ddcf9aef7284a26aab38492325b06fd75",
+        "fileSize": "5.3 MB",
+        "checksum": "824a8974c6261a4f4abfdd23726b15171ca5f39bbf7c555b139b8eefc3b8133d",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Khôi phục nền tảng chuẩn từ Build 5 (v2.05), bảo toàn 100% Live HUD Waze native 512x512 trên widget Coolwalk màn ngoài Android Auto",
-          "Sửa dứt điểm xung đột Spotify: Xóa bỏ việc ép audio focus trong poll(), nhường loa cho Spotify tự nhiên, người dùng chuyển đổi app nghe nhạc mượt mà",
-          "Sửa lỗi YouTube co nhỏ về góc trên bên trái khi vào cài đặt đổi ảnh nền, bảo đảm YouTube luôn toàn màn hình và cảm ứng hoạt động bình thường",
-          "Sửa lỗi MB Media Server chạy ngầm liên tục trên điện thoại khi đóng ứng dụng",
-          "Sửa lỗi IPTV phát nền khi thoát ra: Tắt sạch stream và audio, chống kẹt full screen khi mở lại"
+          "Sửa dứt điểm lỗi co nhỏ màn hình YouTube khi thoát ra Home / chuyển app rồi vào lại, khôi phục chuẩn Build 5",
+          "Sửa triệt để xung đột Spotify: Không cướp Audio Focus khi không phát nhạc, tự động nhường loa khi Spotify bật bài hát",
+          "Duy trì ổn định Live HUD Waze 512x512 native trên widget Coolwalk màn ngoài Android Auto"
         ]
       }
     ]
