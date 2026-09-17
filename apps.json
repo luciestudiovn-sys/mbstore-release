@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.09",
+    "currentVersion": "v2.10",
     "updatedAt": "17/09/2026",
     "size": "5.3 MB",
     "downloads": "185K+",
@@ -29,6 +29,21 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
+        "version": "v2.10",
+        "versionCode": 33,
+        "releaseDate": "17/09/2026",
+        "fileSize": "5.3 MB",
+        "checksum": "1674d921529bcac212e1ef5f1b8ede7b5c094eaf39c900391f5563bcdab9d413",
+        "signer": "MB Team (Monbon For Car)",
+        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "isLatest": true,
+        "changelog": [
+          "Sửa lỗi HUD Waze bị ẩn khỏi widget Coolwalk màn hình ngoài Android Auto khi thoát ứng dụng",
+          "Duy trì widget MB2AUTO luôn hiển thị ổn định mà không gây xung đột (gián đoạn) âm thanh với Spotify"
+        ]
+      },
+      {
         "version": "v2.09",
         "versionCode": 32,
         "releaseDate": "17/09/2026",
@@ -37,7 +52,7 @@
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": true,
+        "isLatest": false,
         "changelog": [
           "Sửa dứt điểm lỗi co nhỏ màn hình YouTube khi thoát ra Home / chuyển app rồi vào lại, khôi phục chuẩn Build 5",
           "Sửa triệt để xung đột Spotify: Không cướp Audio Focus khi không phát nhạc, tự động nhường loa khi Spotify bật bài hát",
