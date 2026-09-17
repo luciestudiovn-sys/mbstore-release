@@ -1,141 +1,141 @@
 [
-  {
-    "id": "mb2auto-v1",
-    "name": "MB2AUTO",
-    "packageName": "com.monbon4car.mobile",
-    "author": "MB Team",
-    "developer": "MB Team",
-    "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
-    "category": "Giải trí ô tô",
-    "currentVersion": "v2.12",
-    "updatedAt": "17/09/2026",
-    "size": "5.3 MB",
-    "downloads": "185K+",
-    "rating": 5.0,
-    "icon": "youtube",
-    "accentColor": "#2563eb",
-    "featured": true,
-    "requiresRoot": false,
-    "targetAndroid": "Android 8.0 - 15+",
-    "isBundled": true,
-    "summary": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
-    "description": "MB2AUTO hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần hardware. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
-    "mainFeatures": [
-      "Xem YouTube không quảng cáo, chạy nền mượt mà khi tắt màn hình",
-      "Đọc danh sách kênh IPTV truyền hình trực tuyến VTV, thể thao",
-      "Hỗ trợ phím Next/Prev bài hát và Volume trên vô lăng"
-    ],
-    "carCompatibility": "Tương thích mọi dòng xe hỗ trợ Android Auto",
-    "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
-    "versions": [
-      {
-        "version": "v2.12",
-        "versionCode": 37,
-        "releaseDate": "2026-09-17",
-        "fileSize": 5600000,
-        "sha256": "a3527809348fee1e11e27ed3ee856df93d0f96e30f3697fd38d9733a62e47bf2",
-        "signer": "MB Team (Monbon For Car)",
-        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
-        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": true,
-        "changelog": [
-          "Cập nhật core: Tự động chiếm widget khi mở màn hình chính (khi không có nhạc đang phát).",
-          "Kiểm tra kĩ và bổ sung cơ chế lịch sự với Audio Focus cho widget Dashboard."
+    {
+        "id": "mb2auto-v1",
+        "name": "MB2AUTO",
+        "packageName": "com.monbon4car.mobile",
+        "author": "MB Team",
+        "developer": "MB Team",
+        "tagline": "Xem YouTube, Web & IPTV tr\u00ean m\u00e0n h\u00ecnh xe \u00f4 t\u00f4",
+        "category": "Gi\u1ea3i tr\u00ed \u00f4 t\u00f4",
+        "currentVersion": "v2.12",
+        "updatedAt": "17/09/2026",
+        "size": "5.3 MB",
+        "downloads": "185K+",
+        "rating": 5.0,
+        "icon": "youtube",
+        "accentColor": "#2563eb",
+        "featured": true,
+        "requiresRoot": false,
+        "targetAndroid": "Android 8.0 - 15+",
+        "isBundled": true,
+        "summary": "B\u1ea3n Native nguy\u00ean b\u1ea3n \u1ed5n \u0111\u1ecbnh cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
+        "description": "MB2AUTO h\u1ed7 tr\u1ee3 \u0111\u01b0a YouTube l\u00ean m\u00e0n h\u00ecnh Android Auto nguy\u00ean b\u1ea3n c\u1ee7a xe, kh\u00f4ng c\u1ea7n can thi\u1ec7p ph\u1ea7n hardware. M\u01b0\u1ee3t m\u00e0, ti\u1ebft ki\u1ec7m d\u1eef li\u1ec7u v\u00e0 t\u1eaft qu\u1ea3ng c\u00e1o ho\u00e0n to\u00e0n.",
+        "mainFeatures": [
+            "Xem YouTube kh\u00f4ng qu\u1ea3ng c\u00e1o, ch\u1ea1y n\u1ec1n m\u01b0\u1ee3t m\u00e0 khi t\u1eaft m\u00e0n h\u00ecnh",
+            "\u0110\u1ecdc danh s\u00e1ch k\u00eanh IPTV truy\u1ec1n h\u00ecnh tr\u1ef1c tuy\u1ebfn VTV, th\u1ec3 thao",
+            "H\u1ed7 tr\u1ee3 ph\u00edm Next/Prev b\u00e0i h\u00e1t v\u00e0 Volume tr\u00ean v\u00f4 l\u0103ng"
+        ],
+        "carCompatibility": "T\u01b0\u01a1ng th\u00edch m\u1ecdi d\u00f2ng xe h\u1ed7 tr\u1ee3 Android Auto",
+        "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "versions": [
+            {
+                "version": "v2.12",
+                "versionCode": 37,
+                "releaseDate": "2026-09-17",
+                "fileSize": 5600000,
+                "sha256": "a3527809348fee1e11e27ed3ee856df93d0f96e30f3697fd38d9733a62e47bf2",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": true,
+                "changelog": [
+                    "C\u1eadp nh\u1eadt core: T\u1ef1 \u0111\u1ed9ng chi\u1ebfm widget khi m\u1edf m\u00e0n h\u00ecnh ch\u00ednh (khi kh\u00f4ng c\u00f3 nh\u1ea1c \u0111ang ph\u00e1t).",
+                    "Ki\u1ec3m tra k\u0129 v\u00e0 b\u1ed5 sung c\u01a1 ch\u1ebf l\u1ecbch s\u1ef1 v\u1edbi Audio Focus cho widget Dashboard."
+                ]
+            },
+            {
+                "version": "v2.11",
+                "versionCode": 34,
+                "releaseDate": "2026-09-17",
+                "fileSize": 5600000,
+                "sha256": "fdbc757612ce4f88ae4e8df4998c295967cccffc2befde6e4c8c15c9aa5b508e",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": false,
+                "changelog": [
+                    "Kh\u1eafc ph\u1ee5c tri\u1ec7t \u0111\u1ec3 l\u1ed7i HUD Waze b\u1ecb \u1ea9n khi tho\u00e1t ra m\u00e0n h\u00ecnh ch\u00ednh Android Auto (Coolwalk).",
+                    "Gi\u1eef nguy\u00ean t\u00ednh n\u0103ng nh\u01b0\u1eddng \u00e2m thanh cho Spotify, Waze HUD s\u1ebd t\u1ef1 \u0111\u1ed9ng c\u01b0\u1edbp Widget khi Spotify kh\u00f4ng ph\u00e1t nh\u1ea1c."
+                ]
+            },
+            {
+                "version": "v2.10",
+                "versionCode": 33,
+                "releaseDate": "17/09/2026",
+                "fileSize": "5.3 MB",
+                "checksum": "1674d921529bcac212e1ef5f1b8ede7b5c094eaf39c900391f5563bcdab9d413",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": false,
+                "changelog": [
+                    "S\u1eeda l\u1ed7i HUD Waze b\u1ecb \u1ea9n kh\u1ecfi widget Coolwalk m\u00e0n h\u00ecnh ngo\u00e0i Android Auto khi tho\u00e1t \u1ee9ng d\u1ee5ng",
+                    "Duy tr\u00ec widget MB2AUTO lu\u00f4n hi\u1ec3n th\u1ecb \u1ed5n \u0111\u1ecbnh m\u00e0 kh\u00f4ng g\u00e2y xung \u0111\u1ed9t (gi\u00e1n \u0111o\u1ea1n) \u00e2m thanh v\u1edbi Spotify"
+                ]
+            },
+            {
+                "version": "v2.09",
+                "versionCode": 32,
+                "releaseDate": "17/09/2026",
+                "fileSize": "5.3 MB",
+                "checksum": "824a8974c6261a4f4abfdd23726b15171ca5f39bbf7c555b139b8eefc3b8133d",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": false,
+                "changelog": [
+                    "S\u1eeda d\u1ee9t \u0111i\u1ec3m l\u1ed7i co nh\u1ecf m\u00e0n h\u00ecnh YouTube khi tho\u00e1t ra Home / chuy\u1ec3n app r\u1ed3i v\u00e0o l\u1ea1i, kh\u00f4i ph\u1ee5c chu\u1ea9n Build 5",
+                    "S\u1eeda tri\u1ec7t \u0111\u1ec3 xung \u0111\u1ed9t Spotify: Kh\u00f4ng c\u01b0\u1edbp Audio Focus khi kh\u00f4ng ph\u00e1t nh\u1ea1c, t\u1ef1 \u0111\u1ed9ng nh\u01b0\u1eddng loa khi Spotify b\u1eadt b\u00e0i h\u00e1t",
+                    "Duy tr\u00ec \u1ed5n \u0111\u1ecbnh Live HUD Waze 512x512 native tr\u00ean widget Coolwalk m\u00e0n ngo\u00e0i Android Auto"
+                ]
+            }
         ]
-      },
-      {
-        "version": "v2.11",
-        "versionCode": 34,
-        "releaseDate": "2026-09-17",
-        "fileSize": 5600000,
-        "sha256": "fdbc757612ce4f88ae4e8df4998c295967cccffc2befde6e4c8c15c9aa5b508e",
-        "signer": "MB Team (Monbon For Car)",
-        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
-        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": false,
-        "changelog": [
-          "Khắc phục triệt để lỗi HUD Waze bị ẩn khi thoát ra màn hình chính Android Auto (Coolwalk).",
-          "Giữ nguyên tính năng nhường âm thanh cho Spotify, Waze HUD sẽ tự động cướp Widget khi Spotify không phát nhạc."
+    },
+    {
+        "id": "waze-mod-vn",
+        "name": "Waze: B\u1ea3n \u0111\u1ed3 & C\u1ea3nh b\u00e1o GT",
+        "packageName": "com.waze",
+        "author": "ShindouAris",
+        "developer": "ShindouAris (Mod t\u1eeb Waze v12)",
+        "tagline": "B\u1ea3n \u0111\u1ed3 GPS, giao th\u00f4ng tr\u1ef1c ti\u1ebfp & c\u1ea3nh b\u00e1o camera",
+        "category": "B\u1ea3n \u0111\u1ed3 & Xe c\u1ed9",
+        "currentVersion": "v10.0-AutoPair",
+        "updatedAt": "12/09/2026",
+        "size": "156 MB",
+        "downloads": "210K+",
+        "rating": 4.9,
+        "icon": "navigation",
+        "accentColor": "#0284c7",
+        "featured": true,
+        "requiresRoot": false,
+        "targetAndroid": "Android 8.0 - 15+",
+        "isBundled": false,
+        "summary": "B\u1ea3n Waze mod t\u1eeb b\u1ea3n v12 c\u1ee7a t\u00e1c gi\u1ea3 ShindouAris, c\u1ea3nh b\u00e1o camera ph\u1ea1t ngu\u1ed9i v\u00e0 t\u1ef1 \u0111\u1ed9ng k\u1ebft n\u1ed1i Socket MB2AUTO.",
+        "description": "B\u1ea3n Waze Mod ph\u00e1t tri\u1ec3n d\u1ef1a tr\u00ean b\u1ea3n v12 c\u1ee7a t\u00e1c gi\u1ea3 ShindouAris. Lu\u00f4n bi\u1ebft tr\u01b0\u1edbc t\u00ecnh h\u00ecnh \u0111\u01b0\u1eddng s\u00e1 v\u1edbi Waze, t\u00edch h\u1ee3p d\u1eef li\u1ec7u camera ph\u1ea1t ngu\u1ed9i v\u00e0 t\u1ef1 \u0111\u1ed9ng ph\u00e1t d\u1eef li\u1ec7u telemetry sang MB2AUTO.",
+        "mainFeatures": [
+            "Ph\u00e1t tri\u1ec3n t\u1eeb b\u1ea3n Waze Mod v12 c\u1ee7a t\u00e1c gi\u1ea3 ShindouAris",
+            "L\u1ed9 tr\u00ecnh th\u00f4ng minh theo giao th\u00f4ng th\u1eddi gian th\u1ef1c",
+            "C\u1ea3nh b\u00e1o s\u1edbm: C\u1ea3nh s\u00e1t, camera b\u1eafn t\u1ed1c \u0111\u1ed9, tai n\u1ea1n",
+            "\u0110\u1ed3ng h\u1ed3 \u0111o t\u1ed1c \u0111\u1ed9 & c\u1ea3nh b\u00e1o ch\u1ea1y qu\u00e1 t\u1ed1c \u0111\u1ed9",
+            "T\u1ef1 \u0111\u1ed9ng pair telemetry tr\u1ef1c ti\u1ebfp sang MB2AUTO"
+        ],
+        "carCompatibility": "K\u1ebft n\u1ed1i t\u1ef1 \u0111\u1ed9ng v\u1edbi Android Auto tr\u00ean m\u00e0n h\u00ecnh xe",
+        "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "versions": [
+            {
+                "version": "v10.0-AutoPair",
+                "releaseDate": "12/09/2026",
+                "fileSize": "156 MB",
+                "downloadUrl": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": true,
+                "changelog": [
+                    "B\u1ea3n Waze mod t\u1eeb phi\u00ean b\u1ea3n v12 c\u1ee7a t\u00e1c gi\u1ea3 ShindouAris",
+                    "C\u1ea5u h\u00ecnh s\u1eb5n HUD Link WebSocket 127.0.0.1:8765 t\u1ef1 \u0111\u1ed9ng",
+                    "Pair t\u1ee9c th\u00ec v\u1edbi MB2AUTO kh\u00f4ng c\u1ea7n c\u00e0i \u0111\u1eb7t g\u00ec th\u00eam",
+                    "C\u1ea3nh b\u00e1o t\u1ed1c \u0111\u1ed9 v\u00e0 camera ph\u1ea1t ngu\u1ed9i th\u1eddi gian th\u1ef1c"
+                ]
+            }
         ]
-      },
-      {
-        "version": "v2.10",
-        "versionCode": 33,
-        "releaseDate": "17/09/2026",
-        "fileSize": "5.3 MB",
-        "checksum": "1674d921529bcac212e1ef5f1b8ede7b5c094eaf39c900391f5563bcdab9d413",
-        "signer": "MB Team (Monbon For Car)",
-        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
-        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": false,
-        "changelog": [
-          "Sửa lỗi HUD Waze bị ẩn khỏi widget Coolwalk màn hình ngoài Android Auto khi thoát ứng dụng",
-          "Duy trì widget MB2AUTO luôn hiển thị ổn định mà không gây xung đột (gián đoạn) âm thanh với Spotify"
-        ]
-      },
-      {
-        "version": "v2.09",
-        "versionCode": 32,
-        "releaseDate": "17/09/2026",
-        "fileSize": "5.3 MB",
-        "checksum": "824a8974c6261a4f4abfdd23726b15171ca5f39bbf7c555b139b8eefc3b8133d",
-        "signer": "MB Team (Monbon For Car)",
-        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
-        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": false,
-        "changelog": [
-          "Sửa dứt điểm lỗi co nhỏ màn hình YouTube khi thoát ra Home / chuyển app rồi vào lại, khôi phục chuẩn Build 5",
-          "Sửa triệt để xung đột Spotify: Không cướp Audio Focus khi không phát nhạc, tự động nhường loa khi Spotify bật bài hát",
-          "Duy trì ổn định Live HUD Waze 512x512 native trên widget Coolwalk màn ngoài Android Auto"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "waze-mod-vn",
-    "name": "Waze: Bản đồ & Cảnh báo GT",
-    "packageName": "com.waze",
-    "author": "ShindouAris",
-    "developer": "ShindouAris (Mod từ Waze v12)",
-    "tagline": "Bản đồ GPS, giao thông trực tiếp & cảnh báo camera",
-    "category": "Bản đồ & Xe cộ",
-    "currentVersion": "v10.0-AutoPair",
-    "updatedAt": "12/09/2026",
-    "size": "156 MB",
-    "downloads": "210K+",
-    "rating": 4.9,
-    "icon": "navigation",
-    "accentColor": "#0284c7",
-    "featured": true,
-    "requiresRoot": false,
-    "targetAndroid": "Android 8.0 - 15+",
-    "isBundled": false,
-    "summary": "Bản Waze mod từ bản v12 của tác giả ShindouAris, cảnh báo camera phạt nguội và tự động kết nối Socket MB2AUTO.",
-    "description": "Bản Waze Mod phát triển dựa trên bản v12 của tác giả ShindouAris. Luôn biết trước tình hình đường sá với Waze, tích hợp dữ liệu camera phạt nguội và tự động phát dữ liệu telemetry sang MB2AUTO.",
-    "mainFeatures": [
-      "Phát triển từ bản Waze Mod v12 của tác giả ShindouAris",
-      "Lộ trình thông minh theo giao thông thời gian thực",
-      "Cảnh báo sớm: Cảnh sát, camera bắn tốc độ, tai nạn",
-      "Đồng hồ đo tốc độ & cảnh báo chạy quá tốc độ",
-      "Tự động pair telemetry trực tiếp sang MB2AUTO"
-    ],
-    "carCompatibility": "Kết nối tự động với Android Auto trên màn hình xe",
-    "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
-    "versions": [
-      {
-        "version": "v10.0-AutoPair",
-        "releaseDate": "12/09/2026",
-        "fileSize": "156 MB",
-        "downloadUrl": "https://github.com/luciestudiovn-sys/mbstore-release/releases/download/v2.6.2-autopair/Waze_Mod_10_AutoPair.apk",
-        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": true,
-        "changelog": [
-          "Bản Waze mod từ phiên bản v12 của tác giả ShindouAris",
-          "Cấu hình sẵn HUD Link WebSocket 127.0.0.1:8765 tự động",
-          "Pair tức thì với MB2AUTO không cần cài đặt gì thêm",
-          "Cảnh báo tốc độ và camera phạt nguội thời gian thực"
-        ]
-      }
-    ]
-  }
+    }
 ]
