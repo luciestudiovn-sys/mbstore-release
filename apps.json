@@ -30,10 +30,10 @@
     "versions": [
       {
         "version": "v2.12",
-        "versionCode": 35,
+        "versionCode": 36,
         "releaseDate": "2026-09-17",
         "fileSize": 5600000,
-        "sha256": "83c9bc794ce0e88775e0e247155e10948818b307983541c152e375b1787ae12d",
+        "sha256": "a3527809348fee1e11e27ed3ee856df93d0f96e30f3697fd38d9733a62e47bf2",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
