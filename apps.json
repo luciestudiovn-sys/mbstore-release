@@ -7,8 +7,8 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.07",
-    "updatedAt": "16/09/2026",
+    "currentVersion": "v2.08",
+    "updatedAt": "17/09/2026",
     "size": "4.3 MB",
     "downloads": "185K+",
     "rating": 5.0,
@@ -19,7 +19,7 @@
     "targetAndroid": "Android 8.0 - 15+",
     "isBundled": true,
     "summary": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
-    "description": "MB2AUTO hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần cứng. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
+    "description": "MB2AUTO hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần hardware. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
     "mainFeatures": [
       "Xem YouTube không quảng cáo, chạy nền mượt mà khi tắt màn hình",
       "Đọc danh sách kênh IPTV truyền hình trực tuyến VTV, thể thao",
@@ -29,21 +29,21 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
-        "version": "v2.07",
-        "versionCode": 30,
-        "releaseDate": "16/09/2026",
+        "version": "v2.08",
+        "versionCode": 31,
+        "releaseDate": "17/09/2026",
         "fileSize": "4.3 MB",
-        "checksum": "c4b4297359e508e1b0269cd6032508c2c57604269122c85a0b34bb3f981d02e1",
+        "checksum": "d728c80de649ba84a694f7a4df74030ddcf9aef7284a26aab38492325b06fd75",
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
         "isLatest": true,
         "changelog": [
-          "Khắc phục triệt để lỗi YouTube bị co nhỏ về góc trên bên trái khi thay đổi hình nền nhiều lần",
-          "Khắc phục triệt để lỗi mất viễn trắc Live HUD Waze ở widget media ngoài màn hình chính Android Auto (Coolwalk)",
-          "Xử lý dứt điểm MB Media Server chạy ngầm trên điện thoại và loại bỏ cơ chế cưỡng ép Spotify, cho phép chuyển đổi nghe nhạc mượt mà",
-          "Dừng hoàn toàn âm thanh IPTV khi thoát ra ngoài và giải phóng bộ phát, chống kẹt toàn màn hình khi mở lại",
-          "Bảo toàn toàn diện các tính năng: phím vô lăng Next/Prev/Play/Pause, micro voice sidebar, universal zoom 3 bước, HUD Waze 512x512 native"
+          "Khôi phục nền tảng chuẩn từ Build 5 (v2.05), bảo toàn 100% Live HUD Waze native 512x512 trên widget Coolwalk màn ngoài Android Auto",
+          "Sửa dứt điểm xung đột Spotify: Xóa bỏ việc ép audio focus trong poll(), nhường loa cho Spotify tự nhiên, người dùng chuyển đổi app nghe nhạc mượt mà",
+          "Sửa lỗi YouTube co nhỏ về góc trên bên trái khi vào cài đặt đổi ảnh nền, bảo đảm YouTube luôn toàn màn hình và cảm ứng hoạt động bình thường",
+          "Sửa lỗi MB Media Server chạy ngầm liên tục trên điện thoại khi đóng ứng dụng",
+          "Sửa lỗi IPTV phát nền khi thoát ra: Tắt sạch stream và audio, chống kẹt full screen khi mở lại"
         ]
       }
     ]
