@@ -7,7 +7,7 @@
     "developer": "MB Team",
     "tagline": "Xem YouTube, Web & IPTV trên màn hình xe ô tô",
     "category": "Giải trí ô tô",
-    "currentVersion": "v2.11",
+    "currentVersion": "v2.12",
     "updatedAt": "17/09/2026",
     "size": "5.3 MB",
     "downloads": "185K+",
@@ -29,6 +29,21 @@
     "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
     "versions": [
       {
+        "version": "v2.12",
+        "versionCode": 35,
+        "releaseDate": "2026-09-17",
+        "fileSize": 5600000,
+        "sha256": "83c9bc794ce0e88775e0e247155e10948818b307983541c152e375b1787ae12d",
+        "signer": "MB Team (Monbon For Car)",
+        "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+        "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+        "isLatest": true,
+        "changelog": [
+          "Cập nhật core: Tự động chiếm widget khi mở màn hình chính (khi không có nhạc đang phát).",
+          "Kiểm tra kĩ và bổ sung cơ chế lịch sự với Audio Focus cho widget Dashboard."
+        ]
+      },
+      {
         "version": "v2.11",
         "versionCode": 34,
         "releaseDate": "2026-09-17",
@@ -37,7 +52,7 @@
         "signer": "MB Team (Monbon For Car)",
         "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
         "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-        "isLatest": true,
+        "isLatest": false,
         "changelog": [
           "Khắc phục triệt để lỗi HUD Waze bị ẩn khi thoát ra màn hình chính Android Auto (Coolwalk).",
           "Giữ nguyên tính năng nhường âm thanh cho Spotify, Waze HUD sẽ tự động cướp Widget khi Spotify không phát nhạc."
