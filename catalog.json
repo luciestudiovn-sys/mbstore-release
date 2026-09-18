@@ -1,15 +1,15 @@
 {
   "ok": true,
-  "catalog_version": 4,
+  "catalog_version": 5,
   "store_name": "M&B Store",
   "apps": [
     {
       "pkg": "com.monbon4car.mobile",
       "name": "MB2AUTO",
       "cat": "Giao diện xe",
-      "ver": "v2.12",
-      "version_code": 33,
-      "size": 5523168,
+      "ver": "v2.17",
+      "version_code": 40,
+      "size": 5523488,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Sửa lỗi HUD Waze bị ẩn khỏi widget Coolwalk màn hình ngoài Android Auto khi thoát ứng dụng\n• Duy trì widget MB2AUTO luôn hiển thị ổn định mà không gây xung đột (gián đoạn) âm thanh với Spotify"
+      "whats_new": "• Khắc phục triệt để lỗi YouTube thoát không chạy nền trên Android Auto\n• Sửa lỗi Media Server (Foreground Service MB2AUTO Media) không tự tắt khi thoát Android Auto hoặc ngắt kết nối\n• Tối ưu hóa Audio Focus và an toàn Binder IPC widget"
     },
     {
       "pkg": "com.waze",

@@ -7,8 +7,8 @@
         "developer": "MB Team",
         "tagline": "Xem YouTube, Web & IPTV tr\u00ean m\u00e0n h\u00ecnh xe \u00f4 t\u00f4",
         "category": "Gi\u1ea3i tr\u00ed \u00f4 t\u00f4",
-        "currentVersion": "v2.12",
-        "updatedAt": "17/09/2026",
+        "currentVersion": "v2.17",
+        "updatedAt": "18/09/2026",
         "size": "5.3 MB",
         "downloads": "185K+",
         "rating": 5.0,
@@ -19,7 +19,7 @@
         "targetAndroid": "Android 8.0 - 15+",
         "isBundled": true,
         "summary": "B\u1ea3n Native nguy\u00ean b\u1ea3n \u1ed5n \u0111\u1ecbnh cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
-        "description": "MB2AUTO h\u1ed7 tr\u1ee3 \u0111\u01b0a YouTube l\u00ean m\u00e0n h\u00ecnh Android Auto nguy\u00ean b\u1ea3n c\u1ee7a xe, kh\u00f4ng c\u1ea7n can thi\u1ec7p ph\u1ea7n hardware. M\u01b0\u1ee3t m\u00e0, ti\u1ebft ki\u1ec7m d\u1eef li\u1ec7u v\u00e0 t\u1eaft qu\u1ea3ng c\u00e1o ho\u00e0n to\u00e0n.",
+        "description": "MB2AUTO h\u1ed7 tr\u1ee3 \u0111\u01b0a YouTube l\u00ean m\u00e0n h\u00ecnh Android Auto nguy\u00ean b\u1ea3n c\u1ee7a xe, kh\u00f4ng c\u1ea7n can thi\u1ec7p ph\u1ea7n hardware. M\u01b0\u1ee3t m\u00e0, ti\u1ebft ki\u1ec7m d\u1eef li\u1ec7u v\u00e0 t\u1eaft qu\u1ea3ng c\u00e1o ho\u00e0n t\u00f4n.",
         "mainFeatures": [
             "Xem YouTube kh\u00f4ng qu\u1ea3ng c\u00e1o, ch\u1ea1y n\u1ec1n m\u01b0\u1ee3t m\u00e0 khi t\u1eaft m\u00e0n h\u00ecnh",
             "\u0110\u1ecdc danh s\u00e1ch k\u00eanh IPTV truy\u1ec1n h\u00ecnh tr\u1ef1c tuy\u1ebfn VTV, th\u1ec3 thao",
@@ -29,6 +29,22 @@
         "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
         "versions": [
             {
+                "version": "v2.17",
+                "versionCode": 40,
+                "releaseDate": "2026-09-18",
+                "fileSize": 5523488,
+                "sha256": "9cb7136665cfbbdab33c17467779c3f82b0d47f1beb82c663155a1b5b101b459",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": true,
+                "changelog": [
+                    "Kh\u1eafc ph\u1ee5c tri\u1ec7t \u0111\u1ec3 l\u1ed7i YouTube tho\u00e1t kh\u00f4ng ch\u1ea1y n\u1ec1n khi chuy\u1ec3n m\u00e0n h\u00ecnh Android Auto.",
+                    "S\u1eeda l\u1ed7i Media Server kh\u00f4ng t\u1ef1 t\u1eaft khi ng\u1eaft k\u1ebft n\u1ed1i Android Auto.",
+                    "T\u1ed1i \u01b0u h\u00f3a Audio Focus v\u00e0 an to\u00e0n Binder IPC widget."
+                ]
+            },
+            {
                 "version": "v2.12",
                 "versionCode": 37,
                 "releaseDate": "2026-09-17",
@@ -37,7 +53,7 @@
                 "signer": "MB Team (Monbon For Car)",
                 "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
                 "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-                "isLatest": true,
+                "isLatest": false,
                 "changelog": [
                     "C\u1eadp nh\u1eadt core: T\u1ef1 \u0111\u1ed9ng chi\u1ebfm widget khi m\u1edf m\u00e0n h\u00ecnh ch\u00ednh (khi kh\u00f4ng c\u00f3 nh\u1ea1c \u0111ang ph\u00e1t).",
                     "Ki\u1ec3m tra k\u0129 v\u00e0 b\u1ed5 sung c\u01a1 ch\u1ebf l\u1ecbch s\u1ef1 v\u1edbi Audio Focus cho widget Dashboard."
