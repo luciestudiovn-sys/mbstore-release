@@ -7,7 +7,7 @@
         "developer": "MB Team",
         "tagline": "Xem YouTube, Web & IPTV tr\u00ean m\u00e0n h\u00ecnh xe \u00f4 t\u00f4",
         "category": "Gi\u1ea3i tr\u00ed \u00f4 t\u00f4",
-        "currentVersion": "v2.17",
+        "currentVersion": "v2.18",
         "updatedAt": "18/09/2026",
         "size": "5.3 MB",
         "downloads": "185K+",
@@ -18,16 +18,32 @@
         "requiresRoot": false,
         "targetAndroid": "Android 8.0 - 15+",
         "isBundled": true,
-        "summary": "B\u1ea3n Native nguy\u00ean b\u1ea3n \u1ed5n \u0111\u1ecbnh cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
-        "description": "MB2AUTO h\u1ed7 tr\u1ee3 \u0111\u01b0a YouTube l\u00ean m\u00e0n h\u00ecnh Android Auto nguy\u00ean b\u1ea3n c\u1ee7a xe, kh\u00f4ng c\u1ea7n can thi\u1ec7p ph\u1ea7n hardware. M\u01b0\u1ee3t m\u00e0, ti\u1ebft ki\u1ec7m d\u1eef li\u1ec7u v\u00e0 t\u1eaft qu\u1ea3ng c\u00e1o ho\u00e0n t\u00f4n.",
+        "summary": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze.",
+        "description": "MB2AUTO hỗ trợ đưa YouTube lên màn hình Android Auto nguyên bản của xe, không cần can thiệp phần hardware. Mượt mà, tiết kiệm dữ liệu và tắt quảng cáo hoàn toàn.",
         "mainFeatures": [
-            "Xem YouTube kh\u00f4ng qu\u1ea3ng c\u00e1o, ch\u1ea1y n\u1ec1n m\u01b0\u1ee3t m\u00e0 khi t\u1eaft m\u00e0n h\u00ecnh",
-            "\u0110\u1ecdc danh s\u00e1ch k\u00eanh IPTV truy\u1ec1n h\u00ecnh tr\u1ef1c tuy\u1ebfn VTV, th\u1ec3 thao",
-            "H\u1ed7 tr\u1ee3 ph\u00edm Next/Prev b\u00e0i h\u00e1t v\u00e0 Volume tr\u00ean v\u00f4 l\u0103ng"
+            "Xem YouTube không quảng cáo, chạy nền mượt mà khi tắt màn hình",
+            "Đọc danh sách kênh IPTV truyền hình trực tuyến VTV, thể thao",
+            "Hỗ trợ phím Next/Prev bài hát và Volume trên vô lăng"
         ],
-        "carCompatibility": "T\u01b0\u01a1ng th\u00edch m\u1ecdi d\u00f2ng xe h\u1ed7 tr\u1ee3 Android Auto",
+        "carCompatibility": "Tương thích mọi dòng xe hỗ trợ Android Auto",
         "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
         "versions": [
+            {
+                "version": "v2.18",
+                "versionCode": 41,
+                "releaseDate": "2026-09-18",
+                "fileSize": 5527460,
+                "sha256": "a3f83089cd253a28c452870dee3f881d96b5d14e74fc57a98706e1fb2301bc38",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": true,
+                "changelog": [
+                    "Khóa cứng bản quyền và thời gian dùng thử gắn chặt với phần cứng thiết bị qua Persistent Device Vault.",
+                    "Chống triệt để việc gỡ/tải lại app để reset thời gian dùng thử hoặc tái kích hoạt key hết hạn.",
+                    "Tự động khôi phục Key VIP khi cài lại app mà không cần nhập lại."
+                ]
+            },
             {
                 "version": "v2.17",
                 "versionCode": 40,
@@ -37,7 +53,7 @@
                 "signer": "MB Team (Monbon For Car)",
                 "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
                 "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-                "isLatest": true,
+                "isLatest": false,
                 "changelog": [
                     "Kh\u1eafc ph\u1ee5c tri\u1ec7t \u0111\u1ec3 l\u1ed7i YouTube tho\u00e1t kh\u00f4ng ch\u1ea1y n\u1ec1n khi chuy\u1ec3n m\u00e0n h\u00ecnh Android Auto.",
                     "S\u1eeda l\u1ed7i Media Server kh\u00f4ng t\u1ef1 t\u1eaft khi ng\u1eaft k\u1ebft n\u1ed1i Android Auto.",
