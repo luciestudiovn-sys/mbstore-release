@@ -9,7 +9,7 @@
       "cat": "Giao diện xe",
       "ver": "v2.19",
       "version_code": 42,
-      "size": 5530384,
+      "size": 5531220,
       "icon_letter": "M",
       "icon_color": "#2563EB",
       "sub": "Bản Native nguyên bản ổn định cao cho Android Auto: YouTube, Web, IPTV, Auto-Pair HUD Waze",
@@ -18,7 +18,7 @@
       "shots": [],
       "min_android": "Android 8.0+",
       "signer": "MB Team (Monbon For Car)",
-      "whats_new": "• Tự động phát nhạc khi kết nối Android Auto: MB2AUTO Server lưu phiên YouTube gần nhất và tự động nạp phát ngay khi kết nối xe\n• Sửa lại hoàn chỉnh mapping phím tìm kiếm bài hát trên điện thoại (tự nhận diện URL/từ khóa) và bàn phím xe hơi (Search, Go, Done, Send, Enter)\n• Mở rộng phím cứng vô lăng bắt lệnh tìm kiếm giọng nói / bài hát"
+      "whats_new": "• Khắc phục triệt để cơ chế Autoplay YouTube tự động phát như Spotify / SoundCloud: Autoplay Enforcer liên tục thăm dò DOM, bypass Mute policy và tự động click play overlay của YouTube Mobile khi kết nối xe\n• MB2AUTO Server lưu phiên YouTube gần nhất và tự động nạp phát ngay khi kết nối Android Auto\n• Sửa lại hoàn chỉnh mapping phím tìm kiếm bài hát trên điện thoại và bàn phím xe hơi\n• Mở rộng phím cứng vô lăng bắt lệnh tìm kiếm giọng nói / bài hát"
     },
     {
       "pkg": "com.waze",
