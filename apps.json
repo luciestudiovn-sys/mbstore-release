@@ -7,8 +7,8 @@
         "developer": "MB Team",
         "tagline": "Xem YouTube, Web & IPTV tr\u00ean m\u00e0n h\u00ecnh xe \u00f4 t\u00f4",
         "category": "Gi\u1ea3i tr\u00ed \u00f4 t\u00f4",
-        "currentVersion": "v2.18",
-        "updatedAt": "18/09/2026",
+        "currentVersion": "v2.19",
+        "updatedAt": "25/09/2026",
         "size": "5.3 MB",
         "downloads": "185K+",
         "rating": 5.0,
@@ -29,6 +29,22 @@
         "githubRepo": "https://github.com/luciestudiovn-sys/mbstore-release",
         "versions": [
             {
+                "version": "v2.19",
+                "versionCode": 42,
+                "releaseDate": "2026-09-25",
+                "fileSize": 5530384,
+                "sha256": "c1f7d72f23d588cc7021adeb56b6b4855753f699752980f901ef0b37052465dd",
+                "signer": "MB Team (Monbon For Car)",
+                "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
+                "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
+                "isLatest": true,
+                "changelog": [
+                    "Tự động phát nhạc khi kết nối Android Auto: MB2AUTO Server lưu phiên YouTube gần nhất và tự động nạp phát ngay khi kết nối xe.",
+                    "Sửa lại hoàn chỉnh mapping phím tìm kiếm bài hát trên điện thoại (tự nhận diện URL/từ khóa) và bàn phím xe hơi (Search, Go, Done, Send, Enter).",
+                    "Mở rộng phím cứng vô lăng bắt lệnh tìm kiếm giọng nói / bài hát (KEYCODE_SEARCH, KEYCODE_VOICE_ASSIST, KEYCODE_ASSIST, KEYCODE_MUSIC)."
+                ]
+            },
+            {
                 "version": "v2.18",
                 "versionCode": 41,
                 "releaseDate": "2026-09-18",
@@ -37,7 +53,7 @@
                 "signer": "MB Team (Monbon For Car)",
                 "downloadUrl": "https://raw.githubusercontent.com/luciestudiovn-sys/mbstore-release/main/apk/MB2AUTO-FINAL-V1.apk",
                 "githubReleaseUrl": "https://github.com/luciestudiovn-sys/mbstore-release",
-                "isLatest": true,
+                "isLatest": false,
                 "changelog": [
                     "Khóa cứng bản quyền và thời gian dùng thử gắn chặt với phần cứng thiết bị qua Persistent Device Vault.",
                     "Chống triệt để việc gỡ/tải lại app để reset thời gian dùng thử hoặc tái kích hoạt key hết hạn.",
